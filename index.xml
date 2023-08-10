@@ -5,33 +5,384 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://clinicalbrainlab.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <title>BrainConnects 2023 - Call For Abstracts</title>
+      <link>https://clinicalbrainlab.github.io/talk/2023_brainconnects/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2023_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://www.brainconnects2023.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2023.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Chinese-English Bilingual Children Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;main.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Age-Related Changes in Episodic Processing of Scenes: A Functional Activation and Connectivity Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Bilingual Future</title>
+      <link>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2023_bilingual_future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRV mediates the relationship between isthmus cingulate thickness and inhibitory control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Dance to Maintain Cognitive Performance and Cortical Morphology in Older Adults with MCI</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_ohbm_dancing/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_ohbm_dancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta-burst stimulation-induced cortical plasticity in younger and older adults: a TMS-EEG study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participants Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/nice-lab/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/nice-lab/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./NICElab21.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain entropy, fractal dimensions and predictability: A review of complexity measures for EEG in healthy and neuropsychiatric populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2022</title>
+      <link>https://clinicalbrainlab.github.io/talk/2022_brainconnects/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2022_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/view/brainconnects2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta Power Differences as a Function of Level of Familiarity with a Musical Style</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cocon/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Dimensions of EEG Activity is Linked to Distinct Facets of Resting-State Cognition</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the effects of background noise and music on cognitive test performance in introverts and extraverts: A cross-cultural study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_background-music/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_background-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Adults Needed</title>
+      <link>https://clinicalbrainlab.github.io/post/role-play/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/post/role-play/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./Role-play.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Part-time Student Assistant Position at The Clinical Brain Lab</title>
+      <link>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Clinical Brain Lab, led by Principal Investigator Prof. Annabel Chen, is looking to hire 3 part-time undergraduate research assistants (10 hours/week) to assist with the recruitment and data collection of two neuroimaging studies.&lt;/p&gt;
+&lt;p&gt;You will be part of a dynamic team of researchers who are using cutting-edge functional near-infrared spectroscopy (fNIRS) and magnetic resonance imaging (MRI) to investigate the brain and behaviour of adults and children when presented with different Singaporean cultural stimuli.&lt;/p&gt;
+&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;p&gt;Depending on your goals for joining us, you will be involved in some of the following activities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Administrative support for recruitment and screening of participants&lt;/li&gt;
+&lt;li&gt;Assist with data collection using fNIRS and MRI equipment&lt;/li&gt;
+&lt;li&gt;Assist with contacting participants and collating questionnaire responses&lt;/li&gt;
+&lt;li&gt;Data preprocessing of MRI and fNIRS datasets&lt;/li&gt;
+&lt;li&gt;Other activities that support the research studies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You must be a current undergraduate student at Nanyang Technological University (NTU)&lt;/li&gt;
+&lt;li&gt;Fast learner and eager to acquire advanced neuroimaging data collection skills&lt;/li&gt;
+&lt;li&gt;Ability to work on some weekends (for data collection)&lt;/li&gt;
+&lt;li&gt;Previous experience in neuroimaging research is an advantage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;If you are interested in this job opening, please contact:&lt;/p&gt;
+&lt;p&gt;Principal Investigator: Prof. Annabel Chen Shen-Hsing
+Tel: +65 6908 1457
+Email:annabelchen@ntu.edu.sg&lt;/p&gt;
+&lt;p&gt;Research Fellow: Dr. Atiqah Azhari
+Email:nuratiqah.azhari@ntu.edu.sg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calling for Submissions to Special Issue &#34;Brain Activity Monitoring and Measurement&#34;</title>
+      <link>https://clinicalbrainlab.github.io/talk/2021_submission_sensors/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2021_submission_sensors/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://www.mdpi.com/journal/sensors/special_issues/BAMM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sex difference in tDCS current mediated by changes in cortical anatomy: A study across young, middle and older adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2021</title>
+      <link>https://clinicalbrainlab.github.io/talk/2021_brainconnects/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2021_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;http://thebrainx.com/brainconnects2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Assistant Position at The Clinical Brain Lab</title>
+      <link>https://clinicalbrainlab.github.io/join/join_cbl_research-assistant/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join_cbl_research-assistant/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Clinical Brain Laboratory within the School of Social Sciences seeks applications for the position of Research Assistant. The Research Assistant will be an integral member of an inter-disciplinary research lab developing multimodal methodologies for non-invasive brain stimulation and neurophysiology to measure neural adaptations to cognitive-motor training intervention.&lt;/p&gt;
+&lt;p&gt;The successful candidate will be responsible for overseeing the day-to-day operations of research projects. This position requires task-orientation, excellent organizational skills, attention to details and accuracy, flexibility in responding to fluid situations, good interpersonal skills, as well as the ability to work independently. The main research modalities in our lab include neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), electroencephalography (EEG), Transcranial Magnetic Stimulation (TMS).&lt;/p&gt;
+&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Day to day coordination of funded projects.&lt;/li&gt;
+&lt;li&gt;Preparation of ethics documents to institutional review boards.&lt;/li&gt;
+&lt;li&gt;Participant recruitment.&lt;/li&gt;
+&lt;li&gt;Data collection using multimodal neuromodulation and neurophysiological recordings, such as electroencephalography and transcranial magnetic stimulation&lt;/li&gt;
+&lt;li&gt;Liaise with stakeholders and project collaborators.&lt;/li&gt;
+&lt;li&gt;Systems administration, including maintenance of network servers and data security.&lt;/li&gt;
+&lt;li&gt;Contribute to the production of research reports.&lt;/li&gt;
+&lt;li&gt;Perform other tasks as required by the Principal Investigators relevant to the research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelors (Honours) degree in Psychology, Cognitive Neuroscience or related field from University of good standing.&lt;/li&gt;
+&lt;li&gt;Experience with neuromodulation and/or neurophysiological techniques such as; transcranial magnetic stimulation, transcranial direct-current stimulation, electroencephalography and/or functional near-infrared spectroscopy is preferred.&lt;/li&gt;
+&lt;li&gt;Good project coordination and administration skills, including data management and storage.&lt;/li&gt;
+&lt;li&gt;Strong oral and written communication skills.&lt;/li&gt;
+&lt;li&gt;Excellent organizational skills and able to work within given deadlines.&lt;/li&gt;
+&lt;li&gt;Self-directed learner who effectively picks up relevant skills as needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Professor, of Psychology, School of Social Sciences, Nanyang Technological University, 48 Nanyang Drive, SHHK-04-19, Singapore 639818, phone +65-6316-8836&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Focality-Oriented Selection of Current Dose for Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Entropy, Fractal Dimensions and Predictability: A Review of Complexity Measures for EEG in Healthy and Neuropsychiatric Populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_braincomplexity/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_braincomplexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part-time System Administration Position at The Clinical Brain Lab</title>
+      <link>https://clinicalbrainlab.github.io/join/join_cbl_system-admin/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/join/join_cbl_system-admin/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The Clinical Brain Lab housed within the Division of Psychology at NTU is seeking a part-time system administrator to help with setting up and maintaining networked servers used for image analyses within the lab. The main research focus of the lab is studying brain functions using neuroimaging methods.&lt;/p&gt;
+&lt;p&gt;The Clinical Brain Lab is currently involved in various projects in neuroimaging and technological applications in education. The  position will allow acquisition of research experience in this field if the applicant has related interest.&lt;/p&gt;
+&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
+&lt;p&gt;This is an hourly position of 8-10 hours per week (negotiable). The duties of this position include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Evaluate and install software packages on behalf of users.&lt;/li&gt;
+&lt;li&gt;Manage software licenses (E.g. CALs, Matlab etc)&lt;/li&gt;
+&lt;li&gt;Ensure QoS and security for servers. (Security design and implementation)&lt;/li&gt;
+&lt;li&gt;Upgrading and patching server operating systems.&lt;/li&gt;
+&lt;li&gt;Plan and manage storage life cycle, including backups.&lt;/li&gt;
+&lt;li&gt;Evaluating software for future deployment.&lt;/li&gt;
+&lt;li&gt;Troubleshoot any other software and hardware problems.&lt;/li&gt;
+&lt;li&gt;Website webmaster (GitHub)&lt;/li&gt;
+&lt;li&gt;Attend Weekly Lab Meetings&lt;/li&gt;
+&lt;li&gt;Communicate with related IT personnel for network issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;Graduate or undergraduate students may apply. The requirements of this position include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with servers and other high availability appliances.&lt;/li&gt;
+&lt;li&gt;Managing and configuring network services (E.g. VPN, routing, channel bonding etc).&lt;/li&gt;
+&lt;li&gt;Troubleshooting FlexNET license manager, remote desktop license manager.&lt;/li&gt;
+&lt;li&gt;Proficiency in RAID and Network file systems (iSCSI LUN, Targets, CIFS)&lt;/li&gt;
+&lt;li&gt;Knowledge in web services (Apache, MySQL, FTP)&lt;/li&gt;
+&lt;li&gt;Design and implementation of Hypervisors and virtualization (E.g. ESXI, resource pools, virtual switches)&lt;/li&gt;
+&lt;li&gt;Matlab, R, C++ and Scripting (Windows PowerShell, or bash/tcsh)&lt;/li&gt;
+&lt;li&gt;Familiar with Windows 2008 R2, 2012, CentOS environments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
+&lt;p&gt;If you have the suitable qualifications and are interested, please send detailed CV and inquiry to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Professor, of Psychology, School of Social Sciences, Nanyang Technological University, 48 Nanyang Drive, SHHK-04-19, Singapore 639818, phone +65-6316-8836&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Parametric Framework to Generate Visual Illusions using Python</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_hrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-fMRI-approaches reveal cerebellum and visual communities to be functionally connected in obsessive compulsive disorder</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -70,21 +421,14 @@
     </item>
     
     <item>
-      <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic</title>
       <link>https://clinicalbrainlab.github.io/publication/2020_deception-covid-fakenews/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2020_deception-covid-fakenews/</guid>
       <description>&lt;p&gt;As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable.
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers
-and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: &lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
+and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: 
+&lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
 &lt;h2 id=&#34;the-role-of-conspiracy-theories&#34;&gt;The Role of Conspiracy Theories&lt;/h2&gt;
 &lt;p&gt;While the authorities are struggling to provide concrete explanations about the coronavirus, conspiracy theorists are quick to provide competing ones with confidence.
 This has exaggerated the spread of fake news and conspiracy theories - beliefs that seek to explain the cause of an event by a hidden, wicked and unlawful scheme, without scientific support.
@@ -143,239 +487,128 @@ Therefore, we proposed to develop an intervention program (&lt;strong&gt;ExCITE:
       <link>https://clinicalbrainlab.github.io/alumni/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/alumni/</guid>
-      <description>&lt;p&gt;Nanyang Technological University
-(Singapore)&lt;/p&gt;
+      <description>&lt;p&gt;Nanyang Technological University (Singapore):
+&lt;/br&gt;&lt;/br&gt;
+Undergraduate Students&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ilang Kumaran Yuvadarshini , Research Associate&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Marilyn Yeo , Project Officer&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Eng Goi Khia , Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Gan Su Ren , Project Officer&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ebenezer Chan, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Goh Jing Tian, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Helen Ho, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Stephanie Lee, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jarrad Oh, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Shee Mei Ling, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Alison Chew , Project Officer&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hoki Fung , Research Associate&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chan Yee Pei , Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Liu Heng Shuang , Research Fellow&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Adrian Galang, Affiliated Research Fellow&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jermaine Chu, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Regine Lau, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lean Jing Hui, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Seanna Neo, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Nur Diyanah, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ong Zi Yan, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Rachel Tham, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yeo Siok Peng, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Kwok Fu Yu , Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tan Jiat Chow, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Belle Yick, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jo Archer, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lee Shu Hui, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lua Rui Ping, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Monika Sobczak-Edmans, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tommy Ng, Ph.D&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Alvin Lim, M.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cathy Kao, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tony Lim, M.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Amos Law, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chia Kai Xin, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dawn Lim, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Derric Eng, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Esmond Seow, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Goh Siang Loo, Serene, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jasmine Lim, B.Eng&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Khoo Ser Wee, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mabel Ong, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Matthew Teo, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Michelle Mah, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Leong Li An, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lim Tech Yian, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Megan Tay, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Neo Shao Hoon, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Samuel Chong, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Serene Koh, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sharon Chan, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tan Bee Li, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tan Suan Fong, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Teh Hui Chian, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Vicki Chng Wei Qi, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yap Jia Yu, B.A.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yeo Jia Ying, B.A.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Amos Law&lt;/li&gt;
+&lt;li&gt;Arumugam Ramaswamy&lt;/li&gt;
+&lt;li&gt;Cheng Wenxuan&lt;/li&gt;
+&lt;li&gt;Chia Kai Xin&lt;/li&gt;
+&lt;li&gt;Chui Yingqi&lt;/li&gt;
+&lt;li&gt;Dawn Lim&lt;/li&gt;
+&lt;li&gt;Derric Eng&lt;/li&gt;
+&lt;li&gt;Ebenezer Chan&lt;/li&gt;
+&lt;li&gt;Esmond Seow&lt;/li&gt;
+&lt;li&gt;Goh Jing Tian&lt;/li&gt;
+&lt;li&gt;Goh Siang Loo, Serene&lt;/li&gt;
+&lt;li&gt;Helen Ho&lt;/li&gt;
+&lt;li&gt;Jarrad Oh&lt;/li&gt;
+&lt;li&gt;Jasmine Lim&lt;/li&gt;
+&lt;li&gt;Jermaine Chu&lt;/li&gt;
+&lt;li&gt;Khoo Ser Wee&lt;/li&gt;
+&lt;li&gt;Lean Jing Hui&lt;/li&gt;
+&lt;li&gt;Leong Li An&lt;/li&gt;
+&lt;li&gt;Lim Tech Yian&lt;/li&gt;
+&lt;li&gt;Lin Xiaowen&lt;/li&gt;
+&lt;li&gt;Low Jia Rong&lt;/li&gt;
+&lt;li&gt;Mabel Ong&lt;/li&gt;
+&lt;li&gt;Matthew Teo&lt;/li&gt;
+&lt;li&gt;Megan Tay&lt;/li&gt;
+&lt;li&gt;Michelle Mah&lt;/li&gt;
+&lt;li&gt;Neo Shao Hoon&lt;/li&gt;
+&lt;li&gt;Neo Yi Fang&lt;/li&gt;
+&lt;li&gt;Nur Diyanah&lt;/li&gt;
+&lt;li&gt;Ong Zi Yan&lt;/li&gt;
+&lt;li&gt;Rachel Tham&lt;/li&gt;
+&lt;li&gt;Randal Lee Zhisheng&lt;/li&gt;
+&lt;li&gt;Regine Lau&lt;/li&gt;
+&lt;li&gt;Samuel Chong&lt;/li&gt;
+&lt;li&gt;Seanna Neo&lt;/li&gt;
+&lt;li&gt;Serene Koh&lt;/li&gt;
+&lt;li&gt;Sharon Chan&lt;/li&gt;
+&lt;li&gt;Shee Mei Ling&lt;/li&gt;
+&lt;li&gt;Stephanie Lee&lt;/li&gt;
+&lt;li&gt;Tan Suan Fong&lt;/li&gt;
+&lt;li&gt;Tay Shi Ying&lt;/li&gt;
+&lt;li&gt;Teh Hui Chian&lt;/li&gt;
+&lt;li&gt;Tony Lim&lt;/li&gt;
+&lt;li&gt;Vicki Chng Wei Qi&lt;/li&gt;
+&lt;li&gt;Yap Jia Yu&lt;/li&gt;
+&lt;li&gt;Yeo Jia Ying&lt;/li&gt;
+&lt;li&gt;Yeo Siok Peng&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;National Taiwan University
-(Taiwan)
-Kayako Matsuo, Ph.D.&lt;/p&gt;
+&lt;p&gt;Graduate Students&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Andy Chen, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Camilla Chen, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cecilia Peng, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ching-I Lu, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Eva Lin, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ivy Cheng, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jessie Huang, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Linda Sung, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Naichi Ko, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Psyche Hou, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yu-Ru Chiu, M.S.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Evan Song&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jing-Syun (Edward) Yu&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Max Chen&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pao-Hsiung Chiu&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Shu-Ju Yang&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Siny Tsang&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Chan Yee Pei&lt;/li&gt;
+&lt;li&gt;Eng Goi Khia&lt;/li&gt;
+&lt;li&gt;Gladys Heng&lt;/li&gt;
+&lt;li&gt;Kwok Fu Yu&lt;/li&gt;
+&lt;li&gt;Tan Jiat Chow&lt;/li&gt;
+&lt;li&gt;Wu Chiao-Yi (Joyce)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Fellows&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adrian Galang, PhD&lt;/li&gt;
+&lt;li&gt;Belle Yick, PhD&lt;/li&gt;
+&lt;li&gt;Jo Archer, PhD&lt;/li&gt;
+&lt;li&gt;Lee Shu Hui, PhD&lt;/li&gt;
+&lt;li&gt;Liu Heng Shuang, PhD&lt;/li&gt;
+&lt;li&gt;Monika Sobczak-Edmans, PhD&lt;/li&gt;
+&lt;li&gt;Rajan Kashyap, PhD&lt;/li&gt;
+&lt;li&gt;Tommy Ng, PhD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Associates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alvin Lim, MA&lt;/li&gt;
+&lt;li&gt;Cathy Kao, MS&lt;/li&gt;
+&lt;li&gt;Hoki Fung,  MS&lt;/li&gt;
+&lt;li&gt;Ilang Kumaran Yuvadarshini,  MS&lt;/li&gt;
+&lt;li&gt;Meenakshi Siddharthan,  MS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project Officers/Research Assistants&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adhya Neshaa Nedumaran&lt;/li&gt;
+&lt;li&gt;Alison Chew&lt;/li&gt;
+&lt;li&gt;Gan Su Ren&lt;/li&gt;
+&lt;li&gt;Lau Zen Juen&lt;/li&gt;
+&lt;li&gt;Low Li Tong&lt;/li&gt;
+&lt;li&gt;Marilyn Yeo&lt;/li&gt;
+&lt;li&gt;Tam Pham&lt;/li&gt;
+&lt;li&gt;Tan Bee Li&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interns&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elaine Teo, Intern&lt;/li&gt;
+&lt;li&gt;Jonathan Tan&lt;/li&gt;
+&lt;li&gt;Max Yong, Trainee RA&lt;/li&gt;
+&lt;li&gt;Pavitraa Sundram, Trainee RA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;System Admin&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lua Rui Ping, PhD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/br&gt;
+National Taiwan University (Taiwan):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Andy Chen, MS&lt;/li&gt;
+&lt;li&gt;Camilla Chen, MS&lt;/li&gt;
+&lt;li&gt;Cecilia Peng, MS&lt;/li&gt;
+&lt;li&gt;Ching-I Lu, MS&lt;/li&gt;
+&lt;li&gt;Eva Lin, MS&lt;/li&gt;
+&lt;li&gt;Evan Song&lt;/li&gt;
+&lt;li&gt;Ivy Cheng, MS&lt;/li&gt;
+&lt;li&gt;Jessie Huang, MS&lt;/li&gt;
+&lt;li&gt;Jing-Syun (Edward) Yu&lt;/li&gt;
+&lt;li&gt;Kayako Matsuo, PhD&lt;/li&gt;
+&lt;li&gt;Linda Sung, MS&lt;/li&gt;
+&lt;li&gt;Max Chen&lt;/li&gt;
+&lt;li&gt;Naichi Ko, MS&lt;/li&gt;
+&lt;li&gt;Pao-Hsiung Chiu&lt;/li&gt;
+&lt;li&gt;Psyche Hou, MS&lt;/li&gt;
+&lt;li&gt;Shu-Ju Yang&lt;/li&gt;
+&lt;li&gt;Siny Tsang&lt;/li&gt;
+&lt;li&gt;Yu-Ru Chiu, MS&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -394,7 +627,7 @@ Past studies have shown evidences that strongly supporting the hypothesis that d
 Despite the positive findings, previous studies were often criticized for not capturing lying as it exists in the real world. Indeed, majority of the experimental paradigms required participants to lie about perceptual
 stimuli or memorized materials. More importantly, unlike lying in the real world, the lies generated in research labs were often not spontaneous but instructed.&lt;/p&gt;
 &lt;p&gt;To increase the translational value of the research in deception and lie detection, we aim to investigate the neural correlates of lying using paradigms that can elicit lying similar to those in the real world.
-In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&#39; lying patterns.&lt;/p&gt;
+In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&amp;rsquo; lying patterns.&lt;/p&gt;
 </description>
     </item>
     
@@ -412,15 +645,6 @@ Our projects will shed light on the impact of critical factors (e.g., orthograph
 &lt;li&gt;Modulating Reading Networks -&lt;em&gt;funded by NTU-JHU Collaborative Grant&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Cognitive Science of Multilingualism In Children (COSMIC) - &lt;em&gt;funded by National Research Foundation&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chinese-English Bilingual Children Needed</title>
-      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./PEB_PB_flyer.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -465,14 +689,6 @@ The findings will have significant implications for early screening and effectiv
       <guid>https://clinicalbrainlab.github.io/post/adult-biliteracy/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./TE-biliteracy-poster.jpg&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -529,6 +745,16 @@ This work has important implications in developing educator’s brain literacy a
     </item>
     
     <item>
+      <title>BrainConnects 2019</title>
+      <link>https://clinicalbrainlab.github.io/talk/2019_brainconnects/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2019_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/site/brainconnects2019/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Translating education neuroscience for teachers</title>
       <link>https://clinicalbrainlab.github.io/publication/2019_learning-translating/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
@@ -570,7 +796,8 @@ The complex span portion interleaves processing and recall tasks, where open-end
 &lt;p&gt;Complex Span is currently used in our lab to supplement the analysis of behavioural and neurocognitive correlates in the 
 &lt;a href=&#34;https://clinicalbrainlab.github.io/project/deception/&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Lau, Z. J., Pham, T. T., Makowski, D., &amp;amp; S H Chen, A. (2019). A Psychopy Implementation of the Complex Span for Working Memory Assessment. Retrieved from &lt;a href=&#34;http://doi.org/10.5281/zenodo.3529329&#34;&gt;http://doi.org/10.5281/zenodo.3529329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lau, Z. J., Pham, T. T., Makowski, D., &amp;amp; S H Chen, A. (2019). A Psychopy Implementation of the Complex Span for Working Memory Assessment. Retrieved from 
+&lt;a href=&#34;http://doi.org/10.5281/zenodo.3529329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.5281/zenodo.3529329&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -663,7 +890,8 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;p&gt;NeuroKit2 is currently used in our lab to analyze neurophysiological correlates of deception in the 
 &lt;a href=&#34;https://clinicalbrainlab.github.io/project/deception/&#34;&gt;Deception Project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lesspinasse, F., Pham, H., Schölzel, C., &amp;amp; S H Chen, A. (2020). NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing. Retrieved March 28, 2020, from &lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34;&gt;https://github.com/neuropsychology/NeuroKit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lesspinasse, F., Pham, H., Schölzel, C., &amp;amp; S H Chen, A. (2020). NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing. Retrieved March 28, 2020, from 
+&lt;a href=&#34;https://github.com/neuropsychology/NeuroKit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/neuropsychology/NeuroKit&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -688,11 +916,32 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;a href=&#34;http://portal.hss.ntu.edu.sg/annalab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;looking-for&#34;&gt;Looking For&lt;/h2&gt;
 &lt;p&gt;We welcome applicants with a &lt;strong&gt;Bachelors&lt;/strong&gt; or &lt;strong&gt;Masters degree&lt;/strong&gt; in various backgrounds such as: &lt;strong&gt;experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science&lt;/strong&gt;, and related fields.&lt;/p&gt;
-&lt;p&gt;The successful applicant will be enrolled in the graduate psychology program by research. For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the 
-&lt;a href=&#34;http://psychology.hss.ntu.edu.sg/Programmes/Graduate/Pages/DoctorofPhilosophy.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Program&lt;/a&gt; and its 
-&lt;a href=&#34;http://admissions.ntu.edu.sg/graduate/R-Programs/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Application&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The successful applicant will be enrolled in the graduate psychology program by research. Competitive scholarships may be applied through the Graduate Psychology Program or the Interdisciplinary Graduate Program with CRADLE@NTU (CRADLE-IGP). For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the 
+&lt;a href=&#34;https://www.ntu.edu.sg/education/graduate-programme/ph.d.-in-psychology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Psychology Program&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ntu.edu.sg/cradle/home/interdisciplinary-graduate-programme-%28igp%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRADLE-IGP&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;Please address questions or send Curriculum Vita to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please address questions or send Curriculum Vita to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pyllusion</title>
+      <link>https://clinicalbrainlab.github.io/software/pyllusion/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/software/pyllusion/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/software/pyllusion.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/RealityBending/Pyllusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pyllusion&lt;/a&gt; is a 
+&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; Toolbox that utilizes a parametric framework to generate visual illusions.&lt;/p&gt;
+&lt;p&gt;The parametric approach implemented in this software proposes to describe illusions using a set of parameters, such as for instance the difference in the target features, and the strength of the contextual information in biasing the perception of the illusion (i.e., illusion strength). These two parameters can be modulated independently in &lt;em&gt;Pyllusion&lt;/em&gt; to investigate the precision and threshold at which certain populations become susceptible to the illusion. The aim of &lt;em&gt;Pyllusion&lt;/em&gt; is to foster reproducible science, allowing neuroscientists to easily report, generate and manipulate similar stimuli regardless of the display format and software. There is comprehensive 
+&lt;a href=&#34;https://realitybending.github.io/Pyllusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; regarding the functionalities of &lt;em&gt;Pyllusion&lt;/em&gt; and code examples of how illusions can be generated in the form of images and psychopy stimuli.&lt;/p&gt;
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;p&gt;Pyllusion was presented at the &lt;strong&gt;43rd European Conference on Visual Perception (ECVP)&lt;/strong&gt;, held from 22 to 27 August 2021. A video walkthrough of the poster is available via this 
+&lt;a href=&#34;https://www.youtube.com/watch?v=uptP_NxEHaM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube link&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python.&lt;/p&gt;
 </description>
     </item>
     
@@ -747,7 +996,8 @@ and cleaning), statistical analyses and modelling, and graphical visualization.&
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SATA&lt;/a&gt; is a Matlab Based toolbox that works well with Matlab version 2017 and above.
-However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. To download the Graphical user interface (GUI) version of SATA, please visit &lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34;&gt;https://doi.org/10.21979/N9/DMWPZK&lt;/a&gt;. The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI.
+However, we have not tested SATA for other MATLAB versions. SATA works on Windows, Linux and Mac. SATA is a post-processing toolbox after the tDCS montages have been simulated in COMETS or ROAST. To download the Graphical user interface (GUI) version of SATA, please visit 
+&lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.21979/N9/DMWPZK&lt;/a&gt;. The SATA GUI package will allow the users to simulate the chosen montages in either COMETS or ROAST, and obtain the post-processed simulation outputs from SATA. Further, you may wish to not use the SATA GUI.
 In this case, you can download the codes from the 
 &lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.
 However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals. For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).&lt;/p&gt;
@@ -780,9 +1030,11 @@ psychiatry, cognitive neuroscience, electrical engineering, medical engineering,
 &lt;li&gt;Familiarity with image data analysis tools such as SPM, FSL, AFNI, DSIStudio, Matlab, Python etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;To apply, please send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to &lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To apply, please use the 
+&lt;a href=&#34;https://ntu.wd3.myworkdayjobs.com/Careers/job/NTU-Main-Campus-Singapore/Research-Fellow--Psychology-Cognitive-Neuroscience-Education-Science-of-Learning-_R00009385-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workday platform&lt;/a&gt; or send Curriculum Vitae, letter of application with research interests, and three letters of recommendation to 
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Psychology, School of Social Sciences, Nanyang Technological University, 14 Nanyang Drive, HSS‐04‐19, Singapore 637332, phone +65‐6316‐8836.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact information&lt;/strong&gt;: Professor S.H. Annabel Chen, PhD, Professor, of Psychology, School of Social Sciences, Nanyang Technological University, 48 Nanyang Drive, SHHK-04-19, Singapore 639818, phone +65-6316-8836&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -893,15 +1145,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -982,6 +1234,16 @@ Three
     </item>
     
     <item>
+      <title>BrainConnects 2018</title>
+      <link>https://clinicalbrainlab.github.io/talk/2018_brainconnects/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2018_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/site/brainconnects2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Working memory, age and education: A lifespan fMRI study</title>
       <link>https://clinicalbrainlab.github.io/publication/2018_ageing-education/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
@@ -1006,11 +1268,31 @@ Three
     </item>
     
     <item>
+      <title>BrainConnects 2017</title>
+      <link>https://clinicalbrainlab.github.io/talk/2017_brainconnects/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2017_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/site/brainconnects2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Frontal-subcortical circuitry in social attachment and relationships: A cross-sectional fMRI ALE meta-analysis</title>
       <link>https://clinicalbrainlab.github.io/publication/2017_meta-analysis-hot-cool/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2017_meta-analysis-hot-cool/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2016</title>
+      <link>https://clinicalbrainlab.github.io/talk/2016_brainconnects/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2016_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/site/brainconnects2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2016.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1052,6 +1334,76 @@ Three
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2016_cerebellum-working-memory-dynamics/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2015</title>
+      <link>https://clinicalbrainlab.github.io/talk/2015_brainconnects/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2015_brainconnects/</guid>
+      <description>&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/site/brainconnects2nd/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2014</title>
+      <link>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_group_1_2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_group_1_2_hu9c1b6e0e5fd15c5d80344f1f32ec78bb_160480_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_nitish@.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_nitish@_huf92ead520f43847e8e6052e20a75e8e9_127385_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;311&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_workshopclosingremarks1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_workshopclosingremarks1_hub99cf81edab8a7224763508ad4c16a20_120048_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;299&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;!-- TODO: fix broken link --&gt;
+&lt;!-- Please click [here](https://clinicalbrain.org/events/brainconnects/Brain%20Connects%202014%20Workshop%20Program.pdf) for the workshop outline. --&gt;
+&lt;p&gt;Follow 
+&lt;a href=&#34;https://sites.google.com/view/brainconnects2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2014.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

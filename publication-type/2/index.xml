@@ -5,17 +5,113 @@
     <link>https://clinicalbrainlab.github.io/publication-type/2/</link>
       <atom:link href="https://clinicalbrainlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://clinicalbrainlab.github.io/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Age-Related Changes in Episodic Processing of Scenes: A Functional Activation and Connectivity Study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain entropy, fractal dimensions and predictability: A review of complexity measures for EEG in healthy and neuropsychiatric populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the effects of background noise and music on cognitive test performance in introverts and extraverts: A cross-cultural study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_background-music/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_background-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focality-Oriented Selection of Current Dose for Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_hrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-fMRI-approaches reveal cerebellum and visual communities to be functionally connected in obsessive compulsive disorder</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
       <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
       <description></description>
     </item>

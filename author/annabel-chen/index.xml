@@ -5,17 +5,153 @@
     <link>https://clinicalbrainlab.github.io/author/annabel-chen/</link>
       <atom:link href="https://clinicalbrainlab.github.io/author/annabel-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Annabel Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_2.png</url>
+      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
       <title>Annabel Chen</title>
       <link>https://clinicalbrainlab.github.io/author/annabel-chen/</link>
     </image>
     
     <item>
+      <title>Associations between brain structure, HRV, and depression and anxiety in a non-clinical sample</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRV mediates the relationship between isthmus cingulate thickness and inhibitory control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_hrv-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta-burst stimulation-induced cortical plasticity in younger and older adults: a TMS-EEG study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2023_tmseeg-youngold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do labels matter? The effect of specific and generic labels on university students’ openness towards autistic peers</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_labels/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theta Power Differences as a Function of Level of Familiarity with a Musical Style</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_music-familiarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look at Cardiac Contraction and the Effect of Cardiac Timing on Cognitive Control</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cocon/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Dimensions of EEG Activity is Linked to Distinct Facets of Resting-State Cognition</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_restingstatecomplexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerebellar Transcranial Magnetic Stimulation (TMS) Impairs Visual Working Memory</title>
+      <link>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex difference in tDCS current mediated by changes in cortical anatomy: A study across young, middle and older adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_sex-differences-tdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focality-Oriented Selection of Current Dose for Transcranial Direct Current Stimulation</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_tdcs-dtdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Entropy, Fractal Dimensions and Predictability: A Review of Complexity Measures for EEG in Healthy and Neuropsychiatric Populations</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_braincomplexity/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_braincomplexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parametric Framework to Generate Visual Illusions using Python</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_pyllusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_hrv/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_hrv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_neurokit/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_neurokit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-fMRI-approaches reveal cerebellum and visual communities to be functionally connected in obsessive compulsive disorder</title>
+      <link>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2021_cerebellum-ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging patterns of Japanese auditory semantic processing: an fMRI study</title>
+      <link>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2020_ageing-adutiroy-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reading proficiency influences the effects of transcranial direct current stimulation: Evidence from selective modulation of dorsal and ventral pathways of reading in bilinguals</title>
       <link>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2020_learning-biliteracy-tdcs/</guid>
       <description></description>
     </item>
@@ -27,7 +163,8 @@
       <guid>https://clinicalbrainlab.github.io/publication/2020_deception-covid-fakenews/</guid>
       <description>&lt;p&gt;As the COVID-19 outbreak spreads across the globe, the world is in parallel flooded by information reporting a wide range of facts, which veracity is not always verifiable.
 Indeed, it has become increasingly apparent that the COVID-19 fake news pandemic is becoming just as viral as the outbreak of the disease itself, evidenced by the need for researchers
-and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: &lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
+and authorities to track the spread of misinformation. As a consequence, the Ministry of Health in Singapore has even dedicated an entire website (See here: 
+&lt;a href=&#34;https://www.moh.gov.sg/covid-19/clarifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.moh.gov.sg/covid-19/clarifications&lt;/a&gt;) to debunk all instances of fake news.&lt;/p&gt;
 &lt;h2 id=&#34;the-role-of-conspiracy-theories&#34;&gt;The Role of Conspiracy Theories&lt;/h2&gt;
 &lt;p&gt;While the authorities are struggling to provide concrete explanations about the coronavirus, conspiracy theorists are quick to provide competing ones with confidence.
 This has exaggerated the spread of fake news and conspiracy theories - beliefs that seek to explain the cause of an event by a hidden, wicked and unlawful scheme, without scientific support.
@@ -95,7 +232,7 @@ Past studies have shown evidences that strongly supporting the hypothesis that d
 Despite the positive findings, previous studies were often criticized for not capturing lying as it exists in the real world. Indeed, majority of the experimental paradigms required participants to lie about perceptual
 stimuli or memorized materials. More importantly, unlike lying in the real world, the lies generated in research labs were often not spontaneous but instructed.&lt;/p&gt;
 &lt;p&gt;To increase the translational value of the research in deception and lie detection, we aim to investigate the neural correlates of lying using paradigms that can elicit lying similar to those in the real world.
-In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&#39; lying patterns.&lt;/p&gt;
+In addition, we also seek to explore the structure of dispositional deception by developing and validating a short and reliable questionnaire to characterize individuals&amp;rsquo; lying patterns.&lt;/p&gt;
 </description>
     </item>
     
@@ -130,14 +267,6 @@ The findings will have significant implications for early screening and effectiv
 &lt;li&gt;Promoting Effective Biliteracy in Early Childhood: A Systematic Screening and Training Programme for Balanced Bilingual Development - &lt;em&gt;funded by Singapore Millennium Foundation&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Structure of Deception: Validation of the Lying Profile Questionnaire</title>
-      <link>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2020_deception-scale/</guid>
-      <description></description>
     </item>
     
     <item>
