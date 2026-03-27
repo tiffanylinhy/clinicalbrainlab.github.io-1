@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Nanyang Technological University
   url: ""
-role: Research Associate & Lab Manager
+role: Research Scientist & Lab Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,14 +30,21 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4465-428X
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/tiffanylinhy
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Hsin-Yu-Lin-3
 
 
 
 superuser: false
 
-title: Lin Hsin-Yu
+title: Lin Hsin-Yu (Tiffany)
 user_groups:
-- Research Associates
+- Research Scientists and Research Fellows
 
 ---
 
+Hsin-Yu received her Bachelor's and Master's degrees from the Department of Biomedical Imaging and Radiological Sciences at National Yang-Ming University, Taipei, Taiwan. She has worked on projects involving the application of neuroimaging techniques to investigate the aging brain and neuropsychiatric conditions using MRI, fMRI, and MRS. Her research focuses on cortical morphology in the aging human brain, including analyses of cortical thickness and gyrification. She also conducts neuroimaging research on bilingualism. She is currently a Research Scientist at CRADLE@NTU, contributing to several ongoing research projects.
