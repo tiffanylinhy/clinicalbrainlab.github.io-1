@@ -47,4 +47,4 @@ user_groups:
 
 ---
 
-Hsin-Yu has worked on projects involving the application of neuroimaging techniques to investigate the aging brain and neuropsychiatric conditions using MRI, fMRI, and MRS. Her research focuses on cortical morphology in the aging human brain, including analyses of cortical thickness and gyrification. She also conducts neuroimaging research on bilingualism. She is currently a Research Scientist at CRADLE@NTU, contributing to several ongoing research projects.
+Hsin-Yu is currently a Research Scientist at CRADLE@NTU, contributing to several ongoing research projects. She has worked on projects involving the application of neuroimaging techniques to investigate the aging brain and neuropsychiatric conditions using MRI, fMRI, and MRS. Her research focuses on cortical morphology in the aging human brain, including analyses of cortical thickness and gyrification. She also conducts neuroimaging research on bilingualism.
