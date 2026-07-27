@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhavya Arya | The Clinical Brain Lab</title>
+    <link>https://clinicalbrainlab.github.io/author/bhavya-arya/</link>
+      <atom:link href="https://clinicalbrainlab.github.io/author/bhavya-arya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bhavya Arya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
+      <title>Bhavya Arya</title>
+      <link>https://clinicalbrainlab.github.io/author/bhavya-arya/</link>
+    </image>
+    
+    <item>
+      <title>Bhavya Arya</title>
+      <link>https://clinicalbrainlab.github.io/author/bhavya-arya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/author/bhavya-arya/</guid>
+      <description>&lt;p&gt;Bhavya is an undergraduate student of Psychology at NTU, aspiring to pursue neuroscience research. She has a keen interest in clinical neuropsychology and educational neuroscience, and she hopes to be able to contribute to these fields in the future through both practical and research-oriented approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

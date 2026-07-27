@@ -3,27 +3,477 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <loc>https://clinicalbrainlab.github.io/join/</loc>
+    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/techniques/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/resources/tools/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/software/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/</loc>
+    <loc>https://clinicalbrainlab.github.io/resources/tools/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication-type/2/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/adam-john-privitera/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/adult-learning/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/bibliometric-analysis/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/lifelong-learning/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication_types/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/science-of-learning/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/shen-hsing-annabel-chen/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/siew-hiang-sally-ng/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tags/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/authors/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/tay-shi-ying/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/</loc>
+    <lastmod>2026-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/brainhack/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/talk/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/symposium/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chew-lee-teo/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/cross-cultural-psychology/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/jiani-ren/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kastoori-kalaivanan/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/matrix-reasoning/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/rui-wang/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/task-engagement/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-task-engagement-matrix-reasoning/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/adolescence/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/child-development/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/cognitive-flexibility/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/creativity/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/mengquan-liu/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/scoping-review/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/xueni-zhang/</loc>
+    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/sh-annabel-chen/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/akshay-abraham/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/barbara-sahakian/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/big-five-inventory/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/david-hung/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/georgios-christopoulos/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/henriette-hendriks/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/hui-shan-yap/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/john-suckling/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/nadhilla-melia/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/openness/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-bfi-openness-mismeasurement/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/personality-measurement/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/psychometrics/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/shengchuang-feng/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/trevor-robbins/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/victoria-leong/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/yuan-ni-chan/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/zoe-kourtzi/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/participate/gallery/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/participate/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/beth-ann-obrien/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/cameron-mavericks-choo/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ching-ling-sharon-yap/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/darren-j.-yeo/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/inventive-thinking/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lena-sam/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ling-lynette-looi/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/meta-analysis/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/reading/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/wilson-peng-hian-lim/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/working-memory/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/barbara-j.-sahakian/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/divergent-thinking/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ke-tong/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/michelle-r.-ellefson/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/nastassja-l.-fischer/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/peter-seow/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/phillis-w.-l.-fu/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ryutaro-uchiyama/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/timothy-lee/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/trevor-w.-robbins/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/instructors/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/schedule/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-ingroup-outgroup-fmri-meta/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/annabel-s.-h.-chen/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/fmri/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/gianluca-esposito/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/in-group/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kelly-h.-l.-sng/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/out-group/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/xavier-y.-h.-lim/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/national-identity/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/nisha-syed-nasser/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/sh-annabel-chen/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/social-neuroscience/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chrysoula-vassiliu/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/li-ling-lee/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/linguistic-diversity/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/mandy-wigdorowitz/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/multilingualism/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/singapore/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/brainconnects/</loc>
+    <lastmod>2025-10-06T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</loc>
+    <lastmod>2025-10-06T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/adult-lifespan/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/b.-k.-yamini/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/brain-stimulation/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-lifespan-learning-review/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/faheem-arshad/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ganesan-venkatsubramanian/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/irtisha-chakraborty/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/john-e.-desmond/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kaviraja-udupa/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kenichi-oishi/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/language-network/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/learning/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/p.-t.-sivakumar/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/primary-progressive-aphasia/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/rajan-kashyap/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/rose-dawn-bharath/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/sagarika-bhattacharjee/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/suvarna-alladi/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/systematic-review/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/t.-n.-sathyaprabha/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/vanteemar-s.-sreeraj/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/brenda-rapp/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ganesan-venkatasubramanian/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/individualized-dosing/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/neurostimulation/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/palanimuthu-t.-sivakumar/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-personalized-tdcs-outcomes/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/tdcs/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/an-shu-te/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ana-neves/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/anxiety/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/depression/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/dominique-makowski/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-phq4-depression-anxiety/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/phq-4/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/brain-networks/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/changsong-zhou/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kyrana-tsapkini/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/pt-sivakumar/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/resting-state-fmri/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/adhya-neshaa-nedumaran/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/adhya-neshaa-nedumaran/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/annamalai-tanisha/</loc>
@@ -35,9 +485,6 @@
     <loc>https://clinicalbrainlab.github.io/tag/deception/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/dominique-makowski/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/project/fake-news/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,50 +494,26 @@
     <loc>https://clinicalbrainlab.github.io/author/sarah-ayub/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/social-neuroscience/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tags/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/authors/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/publication-type/2/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/adam-john-privitera/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <loc>https://clinicalbrainlab.github.io/publication/2025-ppa-tdcs-protocols/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/cameron-m.-choo/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/emotion/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/multisensory-integration/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/neuroimaging/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/publication_types/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/publication/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/shifan-bai/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
@@ -98,14 +521,8 @@
     <loc>https://clinicalbrainlab.github.io/brainhack/usefullinks/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/instructors/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/brainhack/modules/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/schedule/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/brainhack/tutorials/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
@@ -117,6 +534,9 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/deepika-shukla/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/dr-deepika-shukla/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/gabriel-keefe-ang/</loc>
@@ -134,10 +554,16 @@
     <loc>https://clinicalbrainlab.github.io/publication/2025-fmri-reward-competition/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/fmri/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/fung-h./</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ho-r.-c.-m./</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/lin-hsin-yu/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lin-hsin-yu-tiffany/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/reward-sensitivity/</loc>
@@ -146,26 +572,11 @@
     <loc>https://clinicalbrainlab.github.io/tag/social-competition/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/talk/</loc>
-    <lastmod>2024-12-14T14:00:00+00:00</lastmod>
+    <loc>https://clinicalbrainlab.github.io/author/wang-y./</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/talk/2024_brainnorm_outreach/</loc>
     <lastmod>2024-12-14T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/learning/</loc>
-    <lastmod>2024-12-14T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/ganesan-venkatasubramanian/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/john-e.-desmond/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/kaviraja-udupa/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/palanimuthu-t.-sivakumar/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_tdcs/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
@@ -173,25 +584,10 @@
     <loc>https://clinicalbrainlab.github.io/tag/precision-medicine/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/rajan-kashyap/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/sagarika-bhattacharjee/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/t.-n.-sathyaprabha/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/tdcs/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/vanteemar-s.-sreeraj/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/anshu-te/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/claudia-liauw/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/claudia-liauw/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/zenjuen-lau/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/stephanie-kirk/</loc>
@@ -200,43 +596,25 @@
     <loc>https://clinicalbrainlab.github.io/author/tam-pham/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/te-an-shu/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/an-shu-te/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_deception-tom/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/theory-of-mind/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/zenjuen-lau/</loc>
-    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/publication-type/1/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/ageing/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/bayesian-inference/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_bilingualism_holistic_perspective/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/eeg/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/jiayi-zhang/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/rui-sun/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_the-p3-and-academic-performance/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/wilson-lim/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/yueyan-huang/</loc>
@@ -248,11 +626,35 @@
     <loc>https://clinicalbrainlab.github.io/publication/2024_dialect_proficiency_ef/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication-type/1/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/ageing/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/bayesian-inference/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/tag/eeg/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/jiayi-zhang/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/vae-zhang-jiayi/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/wilson-lim/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_science-of-learning_editorial/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/maria-teresa-carthery-goulart/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/gladys-heng/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
@@ -284,6 +686,9 @@
     <loc>https://clinicalbrainlab.github.io/author/cheng-xiaoqin/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/cheng-xiaoqin/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/chialun-liu/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -305,9 +710,6 @@
     <loc>https://clinicalbrainlab.github.io/author/hong-min/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/john-suckling/</loc>
-    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/marisha-barth-ubrani/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -317,19 +719,10 @@
     <loc>https://clinicalbrainlab.github.io/author/tan-jia-yuan-janet/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/zoe-kourtzi/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/tan-jia-yuan-janet/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/barbara-sahakian/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/cognitive-flexibility/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_cognitive-flexibility-training/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/ke-tong/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/liz-y-lee/</loc>
@@ -340,9 +733,6 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/nastassja-l-fischer/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/brainconnects/</loc>
-    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/talk/2024_brainconnects/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
@@ -365,7 +755,7 @@
     <loc>https://clinicalbrainlab.github.io/author/miao-zhong/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/reading/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/zhong-miao/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/talk/2024_nlb-brainnorm/</loc>
@@ -378,13 +768,13 @@
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/jue-wang/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_comparative-psychological-literacy/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/xin-jiang/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_ai-aphasia-review/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
@@ -402,9 +792,6 @@
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/deep-learning/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/siew-hiang-sally-ng/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2024_bilingual-cognitive-control/</loc>
@@ -461,9 +848,6 @@
     <loc>https://clinicalbrainlab.github.io/author/yingjuan-tang/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/post/proof/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -480,9 +864,6 @@
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/project/cerebellum-language/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/chua-wei-ting-serena/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/darren-yeo/</loc>
@@ -512,16 +893,13 @@
     <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/trevor-robbins/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/teo-jia-li/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/victoria-leong/</loc>
-    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/bobby-cheon/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/.../</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/david-hung/</loc>
+    <loc>https://clinicalbrainlab.github.io/author/bobby-cheon/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/executive-functions/</loc>
@@ -539,34 +917,16 @@
     <loc>https://clinicalbrainlab.github.io/author/restria-fauziana/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/shengchuang-feng/</loc>
-    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2023_cognitive_flexibility_ef/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/yuan-ni-chan/</loc>
-    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/biliteracy/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/post/kid-biliteracy/</loc>
-    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2023_aging_sensors/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/chiao-yi-wu/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/josephine-astrid-archer/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/makoto-miyakoshi/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/shen-hsing-annabel-chen/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/source-themes/</loc>
@@ -590,7 +950,10 @@
     <loc>https://clinicalbrainlab.github.io/publication/2023_hrv-affective/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/brenda-rapp/</loc>
+    <loc>https://clinicalbrainlab.github.io/tag/biliteracy/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/wenxuan-cheng/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/tag/dancing/</loc>
@@ -621,9 +984,6 @@
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/justine-yu/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/kenichi-oishi/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/kinnard-chen/</loc>
@@ -662,13 +1022,7 @@
     <loc>https://clinicalbrainlab.github.io/author/wei-ting-serena-chua/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/wenxuan-cheng/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2022_brain-entropy/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/s.-h.-annabel-chen/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/zen-j.-lau/</loc>
@@ -676,9 +1030,6 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/talk/2022_brainconnects/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/an-shu-te/</loc>
-    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2022_structure-of-chaos/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
@@ -743,22 +1094,13 @@
     <loc>https://clinicalbrainlab.github.io/author/yee-cheun-chan/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2022_webbased-cognitive-testing/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/barbara-j-sahakian/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/chrysoula-vassiliu/</loc>
-    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/jia-yi-sim/</loc>
-    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/kastoori-kalaivanan/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/kausar-raheel/</loc>
@@ -810,9 +1152,6 @@
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/ramaswamy-arumugam/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/rose-dawn-bharath/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2021_braincomplexity/</loc>
@@ -899,6 +1238,9 @@
     <loc>https://clinicalbrainlab.github.io/author/arum/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/arumugam-ramaswamy/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/project/deception/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -922,6 +1264,9 @@
   </url><url>
     <loc>https://clinicalbrainlab.github.io/project/translate-neuro/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/software/isata/</loc>
+    <lastmod>2020-07-17T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2020_isata/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
@@ -971,9 +1316,6 @@
     <loc>https://clinicalbrainlab.github.io/author/rachel-tham/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/science-of-learning/</loc>
-    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/shi-hui-desiree-tan/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -1013,9 +1355,6 @@
     <loc>https://clinicalbrainlab.github.io/software/neurokit2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/join/join_cbl_phd2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://clinicalbrainlab.github.io/software/pyllusion/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
@@ -1026,10 +1365,10 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/info/for_parents/</loc>
-    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/software/sata/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
@@ -1062,9 +1401,6 @@
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/wen-yih-isaac-tseng/</loc>
-    <lastmod>2019-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/working-memory/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/yu-chun-lo/</loc>
@@ -1104,9 +1440,6 @@
     <lastmod>2017-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/publication/2017_meta-analysis-hot-cool/</loc>
-    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/tag/meta-analysis/</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/shu-hui-lee/</loc>
@@ -1157,40 +1490,164 @@
     <loc>https://clinicalbrainlab.github.io/talk/2014_brainconnects/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/a.-j.-privitera/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/adam-yeo-yufeng/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/adam-yeo-yufeng/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/ananda-sidarta/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/ananda-sidarta/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/annamalai-tanisha/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/anthony-hew-joon-kit/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/anthony-hew-joon-kit/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/aquila-loh/</loc>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/benjamin-lim/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/bhavya-arya/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/events/brainconnects-2026/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/categories/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/catherineshuhan-wang/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chen-ying-jie/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/christo-cross-chan/</loc>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/christo-cross-chan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chua-wei-ting-serena/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chui-yingqi/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/chui-yingqi/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/claire-chang-see-ying/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/claire-chang-see-ying/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/contact/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/dayton-leow/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/dr-laura-edmondson-chua/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/elaine-low-qian-xi/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/elaine-teo/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/elaine-teo/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/elias-ebrahimzadeh/</loc>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/fung-h./</loc>
+    <loc>https://clinicalbrainlab.github.io/events/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/genevieve-lim/</loc>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/ho-r.-c.-m./</loc>
+    <loc>https://clinicalbrainlab.github.io/author/jonathan-tan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/jovan-lim-zi-jian/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kawabata-m./</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/kelly-sng-hwee-leng/</loc>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/kelly-sng-hwee-leng/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/koh-jiaying-serene/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lau-zen-juen/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/laura-edmondson-chua/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/lee-jing-yang-joshua/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lee-jing-yang-joshua/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/li-tong-low/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lim-hon-hwa-ryan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lim-hon-hwa-ryan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lin-xiaowen/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lin-xiaowen/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/lisbeth-lok/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/low-jia-rong/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/low-jia-rong/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/malikka-begum-binte-habib-mohamed/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/max-yong/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/meenakshi-siddharthan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/team/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/mengyu-lim/</loc>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/neo-yi-fang/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/nisha-syed-nasser/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/oh-ling-en/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/oh-ling-en/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/pavitraa-sundram/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/phoebe-chia/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/randall-lee-zhisheng/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/research/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/seah-yi-lin/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/seah-yi-lin/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/seeni-sabrin-fathima/</loc>
   </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/serene-koh/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/shreya-jolly/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/sim-wei-khang-jeremy/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/tay-shi-ying/</loc>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/author/wang-yifan/</loc>
   </url><url>
-    <loc>https://clinicalbrainlab.github.io/author/wang-y./</loc>
+    <loc>https://clinicalbrainlab.github.io/author/wang-yifan/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/wei-khang-jeremy-sim/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/wong-xin-rui/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/xavier-lim/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/xavier-yan-heng-lim/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/xiaoan-wang/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/xiaoan-wang/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/yip-jiamin-bethany/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/yip-jiamin-bethany/</loc>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/author/yip-jiamin-bethany/</loc>
   </url>
 </urlset>

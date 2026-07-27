@@ -5,55 +5,649 @@
     <link>https://clinicalbrainlab.github.io/</link>
       <atom:link href="https://clinicalbrainlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Clinical Brain Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://clinicalbrainlab.github.io/images/icon_hu30d0ad82a56c1708370149d7b9443316_148842_512x512_fill_lanczos_center_3.png</url>
+      <url>https://clinicalbrainlab.github.io/images/logo_hu_812920a3f394e47a.png</url>
       <title>The Clinical Brain Lab</title>
       <link>https://clinicalbrainlab.github.io/</link>
     </image>
     
     <item>
-      <title>Perception of Real vs. Fake Information</title>
-      <link>https://clinicalbrainlab.github.io/project/fake-news/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/project/fake-news/</guid>
-      <description>&lt;p&gt;Deception, or in other words, information that does not reflect reality, created or delivered with the intention of duping the receiver, is increasingly prevalent in the age of social media. With virtual reality, augmented reality, uncontrolled mass communication, and new forms of fiction, it becomes increasingly difficult to separate truth from deception. Moreover, brain mechanisms and other physiological correlates underlying the processing and acceptance of deceptive information remain largely unknown. This study will be a critical first step in understanding how deceitful information becomes endorsed by individuals susceptible to fake news beliefs and conspiracy theories, consequently facilitating counteract measures in the future.&lt;/p&gt;
-&lt;p&gt;The first aim of this study is to establish and validate a strong experimental paradigm for investigating the neurocognitive processes underlying the belief in deceptive (i.e., Fake/Real) information. It should be noted that real and fake in this study is defined by the factual accuracy of the information based on current credible news. The second aim is to investigate how these processes can be experimentally modulated and the extent of their impact on one&amp;rsquo;s deception appraisal. This paradigm will then help to build a computational model of reality belief which in turn will be used to predict the effect of specific interventions.&lt;/p&gt;
-&lt;p&gt;Alumni:&lt;/p&gt;
-&lt;p&gt;Research Fellows:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/zhong-miao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhong Miao, PhD&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Research Associates:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/wilson-lim/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wilson Lim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/nisha-syed-nasser/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nisha Syed Nasser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/catherine-shuhan-wang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catherine Shuhan Wang&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Research Assistant:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/alumni/alumni_archived/sarah-ayub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarah Ayub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Research on the science of adult learning: A bibliometric analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-adult-learning-bibliometric-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrainHack Symposium: Minds in Motion</title>
+      <link>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/</guid>
+      <description>&lt;section class=&#34;brainhack-symposium-callout&#34; id=&#34;brainhack-symposium&#34;&gt;
+  &lt;div class=&#34;brainhack-symposium-shell&#34;&gt;
+    &lt;div class=&#34;brainhack-symposium-header&#34;&gt;
+      &lt;div class=&#34;brainhack-symposium-kicker&#34;&gt;
+        &lt;span&gt;1-2 July 2026&lt;/span&gt;
+        &lt;span&gt;NTU Experimental Medicine Building, Learning Studio&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;h2&gt;BrainHack Symposium: Minds in Motion&lt;/h2&gt;
+      &lt;p class=&#34;brainhack-symposium-theme&#34;&gt;Interdisciplinary Perspectives on How Minds Work and Develop&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-copy&#34;&gt;
+      &lt;p&gt;
+        Minds in Motion explores the mind as an active, developing, and adaptive system:
+        one that learns from experience, is shaped by social and cultural contexts, and
+        continually responds to changing environments. Research on how minds work and
+        develop is fundamental to advancing education, health, technology, and human
+        flourishing. Yet the complexity of mind and development cannot be fully understood
+        through any single discipline alone. This symposium therefore brings together
+        cognitive neuroscience, linguistics, computational and biomedical sciences to
+        spark new questions, connect methods, and build collaborations that
+        can move discovery toward meaningful real-world impact.
+      &lt;/p&gt;
+      &lt;p&gt;
+        This year&#39;s symposium is organised as part of BrainHack School, jointly run by
+        Nanyang Technological University
+        (Dr. Annabel Chen, Dr. Luo Lizhu, and Dr. Darren Yeo), National Taiwan University
+        (Dr. Joshua Goh and Dr. Charlene Lee), and National Central University
+        (Dr. Chun-Hsien Hsu and Dr. Tzu-Yu Hsu). Across two days, the programme will pair
+        student project presentations with invited interdisciplinary talks spanning social
+        cognitive sciences, humanities, computational sciences, and biomedical sciences.
+        The event is supported by the Cognitive Neuroimaging Centre (CoNiC), the Cognitive
+        and Behavioural Science Research Cluster at the School of Social Sciences, the
+        Clinical Brain Lab, and the Centre for Research and Development in Learning
+        (CRADLE), NTU Singapore, as well as NTU and NCU Taiwan.
+      &lt;/p&gt;
+      &lt;p&gt;
+        Featured topics span multi-modal neuroimaging (fMRI, EEG, and MEG), eye-tracking,
+        multi-agent reinforcement learning (MARL), AI-inspired approaches to cognition,
+        and open science practices for reproducible research. We warmly welcome audience
+        participation and discussion as part of the exchange, with the aim of generating
+        fresh perspectives and future interdisciplinary collaborations.
+      &lt;/p&gt;
+      &lt;div class=&#34;brainhack-registration-row&#34;&gt;
+        &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdt7hHDeZutjpZDFSCm5_BbDfXbxlZI5vJbGiHxR4WLNLwgYw/viewform?usp=publish-editor&#34;&gt;Register now&lt;/a&gt; &lt;a class=&#34;brainhack-symposium-link&#34; href=&#34;https://clinicalbrainlab.github.io/brainhack/programme.pdf&#34; target=&#34;_blank&#34;&gt;View Full Programme&lt;/a&gt;
+        &lt;div class=&#34;brainhack-registration-logos&#34; aria-label=&#34;Partner organisations&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-cbl&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/cbl-logo-transparent.png&#34; alt=&#34;Clinical Brain Lab logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ntu-tw&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ntu-tw-transparent.png&#34; alt=&#34;National Taiwan University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-ncu&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/ncu-transparent.png&#34; alt=&#34;National Central University logo&#34;&gt;
+          &lt;img class=&#34;brainhack-logo-img brainhack-logo-lkc&#34; src=&#34;https://clinicalbrainlab.github.io/media/brainhack/lkcmedicine-lockup-transparent.png&#34; alt=&#34;NTU Lee Kong Chian School of Medicine logo&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;brainhack-symposium-mark&#34; aria-label=&#34;BrainHack School Taiwan Singapore&#34;&gt;
+      &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainhack/bhs-taiwan-singapore-transparent.png&#34; alt=&#34;BrainHack School Taiwan x Singapore logo&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;brainhack-support-logos&#34; aria-label=&#34;Supporting organisations&#34;&gt;
+    &lt;div class=&#34;brainhack-logo-rail&#34;&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-conic&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-conic&#34;&gt;
+          &lt;strong&gt;CoNiC&lt;/strong&gt;
+          &lt;span&gt;Cognitive Neuroimaging Centre&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-stack brainhack-logo-stack-cbr&#34;&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cbr&#34;&gt;
+          &lt;strong&gt;CBR Cluster&lt;/strong&gt;
+          &lt;span&gt;Cognitive and Behavioural Science Research Cluster&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-sss&#34;&gt;
+          &lt;strong&gt;School of Social Sciences&lt;/strong&gt;
+          &lt;span&gt;NTU Singapore&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;brainhack-logo-wordmark brainhack-logo-cradle&#34; aria-label=&#34;Centre for Research and Development in Learning&#34;&gt;
+        &lt;strong&gt;CRADLE&lt;/strong&gt;
+        &lt;span&gt;Centre for Research and&lt;/span&gt;
+        &lt;span&gt;Development in Learning&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
     <item>
-      <title>Brain Imaging Studies of Multisensory Integration in Emotion Perception: A Scoping Review</title>
-      <link>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</guid>
+      <title>Task Engagement in Matrix Reasoning Performance: A Cross-Cultural Investigation in China and the United Kingdom</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-task-engagement-matrix-reasoning/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-task-engagement-matrix-reasoning/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The association between cognitive flexibility and creativity across childhood and adolescence: a scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-cognitive-flexibility-creativity-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over Fifteen Years of Confusion: How the Big Five Inventory Mismeasures Openness</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-bfi-openness-mismeasurement/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-bfi-openness-mismeasurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://clinicalbrainlab.github.io/participate/gallery/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/participate/gallery/</guid>
+      <description>&lt;p&gt;Pictures from conferences, research visits, lab activities, outreach sessions, and celebrations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ASSC%20Poster.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ASSC%20Poster_hu_bcfc40135a3e37a7.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/CLIC_event_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/CLIC_event_1_hu_acd686760581af4c.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/CLIC_event_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/CLIC_event_2_hu_323dd27e6ed42469.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Conference%20poster%20award.jpeg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Conference%20poster%20award_hu_8651dfe1e3229af7.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Conference%20poster.jpeg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Conference%20poster_hu_71eb6c11907f4840.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ICON.jpeg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ICON_hu_d883ff6ae811b69e.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;136&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_1_hu_e175631bd2d968db.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_2_hu_3cee3eff5a02df59.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_3_hu_53f1369adc495363.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_4.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_4_hu_9a589fd0ba34c921.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_5.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/JHU_5_hu_7876359bbf839863.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Lab%20photo%20Teams_22Oct2021.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/Lab%20photo%20Teams_22Oct2021_hu_6bd96f9ffec05cac.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM_hu_48944371e5ea7cb2.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM_2024_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM_2024_1_hu_e9f8db7ae2123bbd.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM_2024_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/OHBM_2024_2_hu_daa0579f9092046f.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ansari-wilding-bashir.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ansari-wilding-bashir_hu_46429131ab6541a6.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;392&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_1.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_1_hu_980b85a0d67e73af.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_2_hu_f55d55ec5772f93b.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_3_hu_d543460f0cc044d3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_4.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/bilingual_future_4_hu_208ddef83efe48e8.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/lab-photo.jpeg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/lab-photo_hu_8255a843cd81d82c.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;442&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_1.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_1_hu_83ac3af50ab3f4db.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_2.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_2_hu_9b92bd8229aa24de.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_3.png&#34; &gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/participate/gallery/gallery/ohbm2023_3_hu_2556d11468187b85.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Defining and measuring inventive thinking: A scoping review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-inventive-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Between Reading and Working Memory in Children and Adolescents: A Meta-Analysis</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-reading-working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set-shifting and task-switching make differential contributions to divergent thinking in adolescence</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-set-shifting-divergent-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructors</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/instructors/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/instructors/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;the-brainhack-school-ntu-team&#34;&gt;The BrainHack School NTU Team&lt;/h2&gt;
+&lt;h3 id=&#34;singapore-directors&#34;&gt;Singapore Directors&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Profile&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Annabel.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.clinicalbrain.org/author/annabel-chen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Annabel Chen&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology&lt;/em&gt; &lt;br&gt; Centre of Research and Development in Learning, Nanyang Technological University, Singapore &lt;br&gt;  
+&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Prof Annabel is a Clinical Neuropsychologist specializing in neuroimaging techniques (MRI, EEG, fNIRS, TMS, tDCS) to understand brain and behavior.  Her 
+&lt;a href=&#34;https://www.clinicalbrain.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClinicalBrainLab&lt;/a&gt; investigates the role of the cerebellum in higher cognition, healthy aging, and socioaffective neuroscience, as well as the Science of Learning. She is the director for the Centre of Research and Development in Learning (CRADLE) at the Nanyang Technological University (NTU.SG) and the director for the Centre of Lifelong Learning and Individualised Cognition (CLIC), a collaborative effort with the University of Cambridge.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Lisa.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://dr.ntu.edu.sg/cris/rp/rp02340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Luo Lizhu (Lisa)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; School of Social Sciences, Nanyang Technological University, Singapore &lt;br&gt; 
+&lt;a href=&#34;mailto:lizhu.luo@ntu.edu.sg&#34;&gt;lizhu.luo@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Dr. Luo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. She conducts interdisciplinary research in psychology, neuroscience, and psychopathology. Her research employs psychological and neuroimaging methods, primarily functional Magnetic Resonance Imaging (fMRI), to investigate the behavioral and neural mechanisms of youth psychopathology, focusing on the dysfunctions in emotional and cognitive processing associated with youth depression.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Darren.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://dr.ntu.edu.sg/cris/rp/rp01327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Darren Yeo&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; School of Social Sciences, Nanyang Technological University, Singapore &lt;br&gt; 
+&lt;a href=&#34;mailto:darrenyeo@ntu.edu.sg&#34;&gt;darrenyeo@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Dr. Yeo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. He is an expert in using fMRI to study neurocognitive processes involved in numeracy and mathematical abilities across the lifespan.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;singapore-teaching-assistants&#34;&gt;Singapore Teaching Assistants&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Profile&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/JiaLi.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.clinicalbrain.org/author/teo-jia-li/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teo Jia Li&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Psychology Department, Nanyang Technological University, Singapore &lt;br&gt; 
+&lt;a href=&#34;mailto:jiali003@e.ntu.edu.sg&#34;&gt;jiali003@e.ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Jia Li graduated from Nanyang Technological University with a Bachelor of Arts in Psychology (Highest Distinction) in 2019, and has since been conducting research on the neurobiological basis of obsessive-compulsive disorder and neural networks for reading in children. Her main interests are in neuroscience.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Xiaoan.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Xiaoan Wang (Sarah)&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Psychology Department, Nanyang Technological University, Singapore &lt;br&gt; 
+&lt;a href=&#34;mailto:XIAOAN001@e.ntu.edu.sg&#34;&gt;XIAOAN001@e.ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Xiaoan obtained dual bachelor’s degrees from the University of California, Berkeley, and a master’s degree in Statistics from Harvard University. She is currently pursuing a PhD at Nanyang Technological University, with a primary research focus on neuroscience. &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/RuessJohanna.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Ruess Joahnna&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; The Youth Affective Neuroscience Lab, Nanyang Technological University, Singapore &lt;br&gt; 
+&lt;a href=&#34;mailto:RUES0001@e.ntu.edu.sg&#34;&gt;RUES0001@e.ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Johanna is a PhD student in the Youth Affective Neuroscience Lab at NTU-SG under Prof Luo Lizhu. Her research focuses on child and youth mental health, with a particular emphasis on self-harm and suicidality. She investigates both neuropsychological and developmental factors that contribute to these outcomes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;br&gt; &lt;br&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;We are happy to join the Brainhack School Taiwan hub this year and we will actively work with the Taiwan hub to kick off the program. We will conduct our course in parallel to the Taiwan local hub, and we plan to have an in-person exchange visit to Taiwan for the final week round of research presentations and symposium.&lt;/p&gt;
+&lt;h2 id=&#34;the-brainhack-school-taiwan-team&#34;&gt;The BrainHack School Taiwan Team&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/logoTaiWan.png&#34; alt=&#34;png&#34;&gt;
+Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. 
+&lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School&lt;/a&gt;, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice. Brainhack School Taiwan joined the international consortium in 2023, which brought together experts from National Central University and National Taiwan University to team up with Brainhack Schools around the world.&lt;/p&gt;
+&lt;h3 id=&#34;taiwan-directors&#34;&gt;Taiwan Directors&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Profile&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TWJoshua.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Dr Joshua O.S. Goh&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Associate Professor&lt;/em&gt; &lt;br&gt; Graduate Institute of Brain and Mind Sciences, National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:joshuagoh@ntu.edu.tw&#34;&gt;joshuagoh@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Josh focuses on understanding intelligence functions in the brain and the biological and experiential constraints. His methodological approaches involve cognitive experiments, brain imaging, and formal modeling with considerations of age and cultural differences, as well as artificial intelligence operations.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TWChiaLin.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Dr Chia-Lin Charlene Lee&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Associate Professor&lt;/em&gt; &lt;br&gt; Graduate Institute of Linguistics, National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:chialinlee@ntu.edu.tw&#34;&gt;chialinlee@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Charlene focuses on semantic and syntactic language processing in the brain as well as contextual influences such as sentence constraints and emotional information. Her primary experimental approach uses electroencephalography (EEG) and event-related potentials (ERP) applied on younger to older adults.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-ChunHsienHsu.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Dr Chun-Hsien Hsu&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; Institute of Cognitive Neuroscience, National Central University, Taiwan &lt;br&gt;  
+&lt;a href=&#34;mailto:kevinhsu@ncu.edu.tw&#34;&gt;kevinhsu@ncu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Chun-Hsien utilizes electronencephalography (EEG) and magnetoencephalography (MEG) to investigate the neural mechanisms underlying language comprehension. His research focuses on how brain activity relates to abstract representations of human language, including empty categories in syntactic structures and morpho-syntactic features. Additionally, he explores how these linguistic representations are acquired in both children and second-language learners.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Tzu-YuHsu.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Asst Prof Tzu-Yu Hsu&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; Institute of Cognitive Neuroscience, National Central University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:tzuyuhsu@ncu.edu.tw&#34;&gt;tzuyuhsu@ncu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Asst Prof Tzu-Yu Hsu investigates the neural correlates of rumination and subjective experience across the spectrum of mental health, from healthy populations to those with psychiatric disorders. She specializes in utilizing EEG and MEG techniques to map these internal states and explore the dynamic interplay between internal cognition and external environmental processes.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;br&gt; &lt;br&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;taiwan-teaching-assistants&#34;&gt;Taiwan Teaching Assistants&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Profile&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-YongShengTan.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Yong Sheng Tan&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Taiwan International Graduate Program, National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:d12b49005@ntu.edu.tw&#34;&gt;d12b49005@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Yong Sheng is a 3rd  year PhD student under the supervision of Dr. Joshua Goh at the Brain and Mind Laboratory, National Taiwan University. His research interests are in the neuroscience and psychology of aging and culture. He employs fMRI to study the neural mechanisms underlying probabilistic processing and decision making, and how these processes differ between Americans and Taiwanese from various age cohorts. His project is conducted in collaboration with Dr. Angela Gutchess at Brandeis University.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-TrevorChou.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Kuan Ying Trevor Chou&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Graduate Student&lt;/em&gt; &lt;br&gt; Brain and Mind Laboratory, National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:trevchou@gmail.com&#34;&gt;trevchou@gmail.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Trevor is a first-year master&amp;rsquo;s student under the supervision of Dr. Joshua Goh at the Brain and Mind Lab, NTU. He earned his bachelor&amp;rsquo;s degree in Psychology from NTU, where he also completed the Neurobiology and Cognitive Science Program. He initially joined the lab in June 2023 through an internship hosted by the Center for Neurobiology and Cognitive Science. His research employs fMRI to investigate the neural mechanisms underlying concept learning, specifically focusing on how cognitive representations evolve during the learning process. To answer these questions, Trevor is particularly passionate about applying geometric approaches to model and understand the structure of human cognition.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-TzuYunKung.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Tzu Yun Kung&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Graduate Student&lt;/em&gt; &lt;br&gt; Graduate Institute of Brain and Mind Sciences at National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:tzuyunkung@gmail.com&#34;&gt;tzuyunkung@gmail.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Tzu Yun is a second-year master’s student under the supervision of Dr. Joshua Goh in the Brain and Mind Lab. Her research focuses on the cognitive processes underlying how people interpret and respond to information in the brain. She mainly works with fMRI data and is currently investigating inference-related processes and how inference-based interventions may influence cognitive abilities in older adults.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-AmandaLin.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Amanda Lin&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Assistant&lt;/em&gt; &lt;br&gt; Graduate Institute of Linguistics, National Taiwan University &lt;br&gt; 
+&lt;a href=&#34;mailto:amanda.lin0103@gmail.com&#34;&gt;amanda.lin0103@gmail.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Amanda is a final-year graduate student in the Graduate Institute of Linguistics, working with Prof. Chia-Lin Lee (Brain and Language Processing Lab) and Prof. Shu-Kai Hsieh (Lab of Ontologies, Language Processing, and e-Humanities). Trained in mathematics (B.Sc.), Amanda is drawn to computational methods for neurophysiological data. She looks to develop transferable EEG embedding models for mood/psychopathology-related inference, with robust noise handling and multimodal integration, and to explore LLM feedback for evaluation and interpretation. Amanda will be starting her PhD in NTU’s Data Science Degree Program in September 2026.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-Wei-linChen.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Wei-linChen (William)&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Graduate Student&lt;/em&gt; &lt;br&gt; Graduate Institute of Brain and Mind Sciences at National Taiwan University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:william215463497@gmail.com&#34;&gt;william215463497@gmail.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;William is a first-year master’s student under the suprvision of Dr. Joshua Goh in the Brain and Mind lab since the fall of 2025. His current research focuses on evaluating functional connectivity before and after cognitive training in the context of aging. He has foundational experience in fMRI data processing, MATLAB, and practical computer science. In addition, he has experience using GitHub Pages and Git repositories, and possesses basic programming skills in Python and C++.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-Ting-HsinYen.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Ting (Ting-Hsin Yen)&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Institution of Cognitive Neuroscience, National Central University, Taiwan &lt;br&gt; 
+&lt;a href=&#34;mailto:dinghsin12345@g.ncu.edu.tw&#34;&gt;dinghsin12345@g.ncu.edu.tw&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Ting is a 1st year PhD student under the supervision of Dr. Chun-Hsien Hsu from the Brain and Language Lab at Institution of Cognitive Neuroscience, National Central University. She has a B.A that majored both in translation &amp;amp; interpretation studies, and psychology. Afterwards, a MSc in Cognitive Neuroscience with the research focus on the neural tracking pattern in second language (L2) learners under naturalistic environment. She uses EEG &amp;amp; MEG to explore how the aspects of bilingualism influence the second language learning process.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;list-of-brainhack-schools-around-the-world&#34;&gt;List of Brainhack Schools around the world&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NTU/ICNNCU ,Taipei/Taoyuan, Taiwan&lt;/li&gt;
+&lt;li&gt;Universidad de la Republica,Montevideo,Uruguay&lt;/li&gt;
+&lt;li&gt;Humai,Buenos Aires,Argentina&lt;/li&gt;
+&lt;li&gt;Polytechnique Montreal, Montreal,Canada&lt;/li&gt;
+&lt;li&gt;University of Montreal ,Montreal, Canada&lt;/li&gt;
+&lt;li&gt;TMU/CAMH,Toronto,Canada&lt;/li&gt;
+&lt;li&gt;Université de Paris Cité,Paris,France&lt;/li&gt;
+&lt;li&gt;McGill&lt;/li&gt;
+&lt;li&gt;Concordia&lt;/li&gt;
+&lt;li&gt;Chile&lt;/li&gt;
+&lt;li&gt;(And More To Be Confirmed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;special-thanks&#34;&gt;Special thanks&lt;/h2&gt;
+&lt;p&gt;We appreciate the Brainhack School Organization team.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Project</title>
       <link>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/brainhackproject/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;This is wrap-ups from 
@@ -119,7 +713,7 @@ Looking for example of project? You can find that from the past Brainhack School
   &lt;/tr&gt;
   &lt;!-- Row 4 --&gt;
   &lt;tr&gt;
-    &lt;td valign=&#34;top&#34;&gt;Class Participation (tutorial, module assignments)&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;Class Participation &lt;br&gt; (tutorial, module assignments)&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;20%&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;Individual&lt;/td&gt;
     &lt;td valign=&#34;top&#34;&gt;
@@ -232,6 +826,274 @@ git push -u origin main
     </item>
     
     <item>
+      <title>Schedule</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
+      <description>&lt;h2 id=&#34;course-schedule&#34;&gt;&lt;Strong&gt;Course Schedule&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Note: The course starts in Week 12 of Semester 2 and continues through to the special term (ST).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;📅 Preparation Phase (April - May)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt; 
+  &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;center&#34;&gt;   W12 SEM2 &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+  6 April -10 April
+  &lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;10 April 2026&lt;/strong&gt; &lt;br&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
+      In-person/&lt;br&gt;Online
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align=&#34;center&#34;&gt;
+  W13 SEM2 onwards&lt;br&gt;
+  (SEM2 exam weeks and break - 7 weeks)
+&lt;/td&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;13 April - 8 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Self-study&lt;/strong&gt; of online modules (https://school.brainhackmtl.org/modules/). 
+      20 modules (videos + assignments + hands-on practices) categorized into:
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt; (e.g., terminal, containers, python scripting/testing, git/github, hpc)&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Neuro data science&lt;/strong&gt; (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;/li&gt;
+      &lt;/ul&gt;
+      You are recommended to follow the sequence as listed here: (https://school.brainhackmtl.org/weeks/)
+      or the modules as ordered in &lt;strong&gt;NTU Learn&lt;/strong&gt; or the &lt;strong&gt;Discord&lt;/strong&gt; server.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+&lt;br&gt;
+&lt;br&gt;
+&lt;Strong&gt;🌍 International Phase (May - July)&lt;/Strong&gt; 
+&lt;table&gt;
+   &lt;table style=&#34;width: 100%; border-collapse: collapse;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Week&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 20%; text-align: center;&#34;&gt;Date&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 50%; text-align: center;&#34;&gt;Topic&lt;/th&gt;
+&lt;th valign=&#34;middle&#34; style=&#34;width: 15%; text-align: center;&#34;&gt;Delivery&lt;br&gt;Mode&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W1-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+  11 May - 15 May
+  &lt;br&gt;&lt;br&gt;
+    &lt;strong&gt;15 May 2026&lt;/strong&gt;
+    &lt;strong&gt;10:30 AM - 1:20 PM&lt;/strong&gt;
+&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Introduction&lt;/strong&gt; to BrainHack School materials
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;
+      In-person/&lt;br&gt;Online
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W2-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;18 May - 22 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Exploration&lt;/strong&gt; of tools for neural data science. &lt;br&gt;
+      Q&amp;amp;A hours. Modules submission.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W3-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;25 May - 29 May&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Project Definition &amp;amp; Piloting;&lt;/strong&gt; Keyword based Pod Assignment. Modules submission Q&amp;amp;A hours &lt;br&gt;
+      Project Pitch on 29 May (Friday) at 1:20pm (TBC)
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W4-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;1 June - 05 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      Assigned to Project Pods ~ TAs.
+      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;
+      Inspirational Presentations by TAs.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W5-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;8 June - 12 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Project Implementation. Project Clinics.&lt;/strong&gt;&lt;br&gt;
+      Wrap-up Presentations.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-person/&lt;br&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W6-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;15 June - 19 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Work Preparation and Group Discussion Week&lt;/strong&gt; for students to discuss group projects, preparation of assignments for submission.
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W7-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;22 June - 26 June&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;Submission of deliverables&lt;/strong&gt;&lt;br&gt;
+      Participants will have to produce a written deliverable for their project, which will be published on the BrainHack School website.&lt;br&gt;
+      &lt;strong&gt;Submission of Final Video for International BrainHack School Deadline: 26 June at 5 pm&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;Online&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;W8-ST&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;29 June - 3 July&lt;/td&gt;
+    &lt;td valign=&#34;top&#34;&gt;
+      &lt;strong&gt;&lt;a href=&#34;https://clinicalbrainlab.github.io/talk/2026_brainhack_symposium/&#34;&gt;BrainHack Symposium Week&lt;/a&gt;&lt;/strong&gt; (Visit from NTU Taiwan Students)&lt;br&gt;
+      We will host a small conference (symposium) regarding the projects (via presentations and posters).&lt;br&gt;
+      Students will present their projects for discussion.&lt;br&gt;
+      &lt;strong&gt;Submission of Reflection Essay Deadline: 03 July at 5 pm on NTULearn&lt;/strong&gt;
+    &lt;/td&gt;
+    &lt;td valign=&#34;top&#34; align=&#34;center&#34; style=&#34;white-space: nowrap;&#34;&gt;In-Person&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Meta-Analysis of Functional Magnetic Resonance Imaging Studies on In-Group and Out-Group Categorization</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-ingroup-outgroup-fmri-meta/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-ingroup-outgroup-fmri-meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National identity reconfigures brain responses from them to us</title>
+      <link>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2026-national-identity-brain-responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of the CILD-Q for measuring contextual linguistic diversity in Singapore</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-cildq-linguistic-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2025</title>
+      <link>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</link>
+      <pubDate>Mon, 06 Oct 2025 08:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/talk/2025_brainconnects/</guid>
+      <description>&lt;p&gt;BrainConnects 2025 was held from 6 to 8 October 2025 at the Henry Sy Auditorium, St. Luke&amp;rsquo;s Medical Center Global City, Philippines.&lt;/p&gt;
+&lt;p&gt;Follow 
+&lt;a href=&#34;https://www.stlukes.com.ph/news-and-events/events-and-conferences/brain-connects-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cognitive and neural mechanisms of learning and interventions for improvement across the adult lifespan: A systematic review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-lifespan-learning-review/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-lifespan-learning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying target regions for non-invasive brain stimulation of the language network in primary progressive aphasia: A narrative review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-stimulation-targets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Transcranial Direct Current Stimulation for Behavioral and Neurophysiologic Outcomes</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-personalized-tdcs-outcomes/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-personalized-tdcs-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Depression and Anxiety With 4 Items? Adaptation of the PHQ-4 to Increase Its Sensitivity to Subclinical Variability</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-phq4-depression-anxiety/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-phq4-depression-anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal evaluation of common and unique brain-networks in variants of primary progressive aphasia</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-brain-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Real vs. Fake Information</title>
+      <link>https://clinicalbrainlab.github.io/project/fake-news/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/project/fake-news/</guid>
+      <description>&lt;p&gt;Deception, or in other words, information that does not reflect reality, created or delivered with the intention of duping the receiver, is increasingly prevalent in the age of social media. With virtual reality, augmented reality, uncontrolled mass communication, and new forms of fiction, it becomes increasingly difficult to separate truth from deception. Moreover, brain mechanisms and other physiological correlates underlying the processing and acceptance of deceptive information remain largely unknown. This study will be a critical first step in understanding how deceitful information becomes endorsed by individuals susceptible to fake news beliefs and conspiracy theories, consequently facilitating counteract measures in the future.&lt;/p&gt;
+&lt;p&gt;The first aim of this study is to establish and validate a strong experimental paradigm for investigating the neurocognitive processes underlying the belief in deceptive (i.e., Fake/Real) information. It should be noted that real and fake in this study is defined by the factual accuracy of the information based on current credible news. The second aim is to investigate how these processes can be experimentally modulated and the extent of their impact on one&amp;rsquo;s deception appraisal. This paradigm will then help to build a computational model of reality belief which in turn will be used to predict the effect of specific interventions.&lt;/p&gt;
+&lt;p&gt;Alumni:&lt;/p&gt;
+&lt;p&gt;Research Fellows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/zhong-miao/&#34;&gt;Zhong Miao, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Associates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/wilson-lim/&#34;&gt;Wilson Lim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/nisha-syed-nasser/&#34;&gt;Nisha Syed Nasser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/catherine-shuhan-wang/&#34;&gt;Catherine Shuhan Wang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Assistant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/sarah-ayub/&#34;&gt;Sarah Ayub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The role of structural and functional parameters in designing pathology-specific tDCS protocols for primary progressive aphasia</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025-ppa-tdcs-protocols/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025-ppa-tdcs-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Imaging Studies of Multisensory Integration in Emotion Perception: A Scoping Review</title>
+      <link>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2025_multisensory-lit-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Technical Help</title>
       <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
@@ -267,6 +1129,10 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
       <description>&lt;h2 id=&#34;brainhack-school&#34;&gt;Brainhack school&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack school website&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ntu-cool&#34;&gt;NTU COOL&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cool.ntu.edu.tw/login/portal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cool.ntu.edu.tw/login/portal&lt;/a&gt; &lt;br&gt;
+Mainly for official grade logging.&lt;/p&gt;
 &lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://neurovault.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroVault&lt;/a&gt;&lt;/p&gt;
@@ -274,211 +1140,10 @@ P.S. If you are a student or teacher, don&amp;rsquo;t forget to join
 &lt;a href=&#34;https://openfmri.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenfMRI&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://github.com/meagmohit/EEG-Datasets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEG-Datasets&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instructors</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/instructors/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/instructors/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;the-brainhack-school-ntu-team&#34;&gt;The BrainHack School NTU Team&lt;/h2&gt;
-&lt;h3 id=&#34;singapore-directors&#34;&gt;Singapore Directors&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Profile&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Annabel.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/annabel-chen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Annabel Chen&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Director of the Centre of Research and Development in Learning (CRADLE), Professor of Psychology&lt;/em&gt; &lt;br&gt; Centre of Research and Development in Learning, Nanyang Technological University, Singapore &lt;br&gt;  
-&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Prof Annabel is a Clinical Neuropsychologist specializing in neuroimaging techniques (MRI, EEG, fNIRS, TMS, tDCS) to understand brain and behavior.  Her 
-&lt;a href=&#34;https://www.clinicalbrain.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ClinicalBrainLab&lt;/a&gt; investigates the role of the cerebellum in higher cognition, healthy aging, and socioaffective neuroscience, as well as the Science of Learning. She is the director for the Centre of Research and Development in Learning (CRADLE) at the Nanyang Technological University (NTU.SG) and the director for the Centre of Lifelong Learning and Individualised Cognition (CLIC), a collaborative effort with the University of Cambridge.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Joyce.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/chiao-yi-wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Wu Chiao-Yi&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Scientist&lt;/em&gt; &lt;br&gt; National Institute of Education, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:chiao-yi.wu@nie.edu.sg&#34;&gt;chiao-yi.wu@nie.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Dr. Wu is a Research Scientist at the Centre for Research in Child Development, National Institute of Education (NTU.SG). Her research is situated at the intersection of psychology, neuroscience, and education within the science of learning. She employs magnetic resonance imaging and functional near-infrared spectroscopy to study the neural networks of language, reading, and executive function across the lifespan, with a particular emphasis on understanding the development of emerging skills (including literacy and bilingualism) to enhance learning outcomes for learners with various needs.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Lisa.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://dr.ntu.edu.sg/cris/rp/rp02340&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Luo Lizhu (Lisa)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; School of Social Sciences, Nanyang Technological University, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:lizhu.luo@ntu.edu.sg&#34;&gt;lizhu.luo@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Dr. Luo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. She conducts interdisciplinary research in psychology, neuroscience, and psychopathology. Her research employs psychological and neuroimaging methods, primarily functional Magnetic Resonance Imaging (fMRI), to investigate the behavioral and neural mechanisms of youth psychopathology, focusing on the dysfunctions in emotional and cognitive processing associated with youth depression.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Darren.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://dr.ntu.edu.sg/cris/rp/rp01327&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Darren Yeo&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; School of Social Sciences, Nanyang Technological University, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:darrenyeo@ntu.edu.sg&#34;&gt;darrenyeo@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Dr. Yeo is an assistant professor in Psychology at the School of Social Sciences at NTU.SG. He is an expert in using fMRI to study neurocognitive processes involved in numeracy and mathematical abilities across the lifespan.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;singapore-teaching-assistants&#34;&gt;Singapore Teaching Assistants&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Profile&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/WongYiSheng.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Wong Yi Sheng&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Fellow&lt;/em&gt; &lt;br&gt; Psychology Department, Nanyang Technological University, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:wong.yisheng@ntu.edu.sg&#34;&gt;wong.yisheng@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Dr Wong Yi Sheng is a research fellow at the Nanyang Technological University, Singapore. His primary research interests include mind wandering, cognitive flexibility, and attentional control. He has extensive experience conducting research using EEG, fNIRS, and fMRI. &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/Tiffany.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/lin-hsin-yu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hsin-Yu Lin (Tiffany)&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Associate&lt;/em&gt; &lt;br&gt; Centre of Research and Development in Learning, Nanyang Technological University, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:linhy@ntu.edu.sg&#34;&gt;linhy@ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Tiffany is currently a Research Associate at CRADLE@NTU, involved in several fMRI projects, and is responsible for the structural and functional MRI analyses. She is also a trained radiographer from NYMU. &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/JiaLi.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/teo-jia-li/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teo Jia Li&lt;/a&gt;&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Psychology Department, Nanyang Technological University, Singapore &lt;br&gt; 
-&lt;a href=&#34;mailto:jiali003@e.ntu.edu.sg&#34;&gt;jiali003@e.ntu.edu.sg&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Jia Li graduated from Nanyang Technological University with a Bachelor of Arts in Psychology (Highest Distinction) in 2019, and has since been conducting research on the neurobiological basis of obsessive-compulsive disorder and neural networks for reading in children. Her main interests are in neuroscience.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;We are happy to join the Brainhack School Taiwan hub this year and we will actively work with the Taiwan hub to kick off the program. We will conduct our course in parallel to the Taiwan local hub, and we plan to have an in-person exchange visit to Taiwan for the final week round of research presentations and symposium.&lt;/p&gt;
-&lt;h2 id=&#34;the-brainhack-school-taiwan-team&#34;&gt;The BrainHack School Taiwan Team&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/logoTaiWan.png&#34; alt=&#34;png&#34;&gt;
-Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. 
-&lt;a href=&#34;https://school-brainhack.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack School&lt;/a&gt;, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice. Brainhack School Taiwan joined the international consortium in 2023, which brought together experts from National Central University and National Taiwan University to team up with Brainhack Schools around the world.&lt;/p&gt;
-&lt;h3 id=&#34;taiwan-directors&#34;&gt;Taiwan Directors&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Profile&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TWJoshua.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Dr Joshua O.S. Goh&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Associate Professor&lt;/em&gt; &lt;br&gt; Graduate Institute of Brain and Mind Sciences, National Taiwan University, Taiwan &lt;br&gt; 
-&lt;a href=&#34;mailto:joshuagoh@ntu.edu.tw&#34;&gt;joshuagoh@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Josh focuses on understanding intelligence functions in the brain and the biological and experiential constraints. His methodological approaches involve cognitive experiments, brain imaging, and formal modeling with considerations of age and cultural differences, as well as artificial intelligence operations.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TWChiaLin.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Dr Chia-Lin Charlene Lee&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Associate Professor&lt;/em&gt; &lt;br&gt; Graduate Institute of Linguistics, National Taiwan University, Taiwan &lt;br&gt; 
-&lt;a href=&#34;mailto:chialinlee@ntu.edu.tw&#34;&gt;chialinlee@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Charlene focuses on semantic and syntactic language processing in the brain as well as contextual influences such as sentence constraints and emotional information. Her primary experimental approach uses electroencephalography (EEG) and event-related potentials (ERP) applied on younger to older adults.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-ChunHsienHsu.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Dr Chun-Hsien Hsu&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Assistant Professor&lt;/em&gt; &lt;br&gt; Institute of Cognitive Neuroscience, National Central University, Taiwan &lt;br&gt;  
-&lt;a href=&#34;mailto:kevinhsu@ncu.edu.tw&#34;&gt;kevinhsu@ncu.edu.tw&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Chun-Hsien utilizes electronencephalography (EEG) and magnetoencephalography (MEG) to investigate the neural mechanisms underlying language comprehension. His research focuses on how brain activity relates to abstract representations of human language, including empty categories in syntactic structures and morpho-syntactic features. Additionally, he explores how these linguistic representations are acquired in both children and second-language learners.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;taiwan-teaching-assistants&#34;&gt;Taiwan Teaching Assistants&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Profile&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-Hannah.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Hannah Lin-Han Huang&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Assistant&lt;/em&gt; &lt;br&gt; Brain and Mind Laboratory, National Taiwan University, Taiwan &lt;br&gt; 
-&lt;a href=&#34;mailto:hannah82633@gmail.com&#34;&gt;hannah82633@gmail.com&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Hannah is a research assistant at the NTU-Taiwan Dr. Goh&amp;rsquo;s Brain and Mind Lab, where she earned her M.Sc. in Brain and Mind Sciences in 2023. Her research explores the cultural impact on resting-state functional connectivity in young adults in the U.S. and Taiwan, in collaboration with Dr. Angela Gutchess from Brandeis University, utilizing advanced fMRI analysis. Additionally, her continuous involvement in the lab&amp;rsquo;s LEGO Intervention and Resilience project has sparked her interest in aging-related research.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-YongShengTan.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Yong Sheng Tan&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Doctoral Student&lt;/em&gt; &lt;br&gt; Taiwan International Graduate Program, National Taiwan University, Taiwan &lt;br&gt; 
-&lt;a href=&#34;mailto:d12b49005@ntu.edu.tw&#34;&gt;d12b49005@ntu.edu.tw&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Yong Sheng is a 2nd year PhD student under the supervision of Dr. Joshua Goh at the Brain and Mind Laboratory, National Taiwan University. His research interests are in the neuroscience and psychology of aging and culture. He employs fMRI to study the neural mechanisms underlying probabilistic processing and decision making, and how these processes differ between Americans and Taiwanese from various age cohorts. His project is conducted in collaboration with Dr. Angela Gutchess at Brandeis University.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/pfp2/TW-Ruo-ChiYao.png&#34; alt=&#34;png&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Ruo-Chi Yao&lt;/strong&gt; &lt;br&gt; &lt;em&gt;Research Assistant&lt;/em&gt; &lt;br&gt; Institute of Cognitive Neuroscience, National Central University, Taiwan &lt;br&gt; 
-&lt;a href=&#34;mailto:kireiyvette@gmail.com&#34;&gt;kireiyvette@gmail.com&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Ruo-Chi is affiliated with the Institute of Cognitive Neuroscience at National Central University. Her research interests are in linguistics, speech-language pathology, and neuroimaging.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;list-of-brainhack-schools-around-the-world&#34;&gt;List of Brainhack Schools around the world&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NTU/ICNNCU ,Taipei/Taoyuan, Taiwan&lt;/li&gt;
-&lt;li&gt;Universidad de la Republica,Montevideo,Uruguay&lt;/li&gt;
-&lt;li&gt;Humai,Buenos Aires,Argentina&lt;/li&gt;
-&lt;li&gt;Polytechnique Montreal, Montreal,Canada&lt;/li&gt;
-&lt;li&gt;University of Montreal ,Montreal, Canada&lt;/li&gt;
-&lt;li&gt;TMU/CAMH,Toronto,Canada&lt;/li&gt;
-&lt;li&gt;Université de Paris Cité,Paris,France&lt;/li&gt;
-&lt;li&gt;McGill&lt;/li&gt;
-&lt;li&gt;Concordia&lt;/li&gt;
-&lt;li&gt;Chile&lt;/li&gt;
-&lt;li&gt;(And More To Be Confirmed)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;special-thanks&#34;&gt;Special thanks&lt;/h2&gt;
-&lt;p&gt;We appreciate the Brainhack School Organization team.&lt;/p&gt;
+&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;mailto:brainhacktwsg@gmail.com&#34;&gt;brainhacktwsg@gmail.com&lt;/a&gt; &lt;br&gt;
+Email this for logistics inquiries; for questions about course content/ final projects, please contact TAs on Discord.&lt;/p&gt;
 </description>
     </item>
     
@@ -492,123 +1157,25 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
 &lt;a href=&#34;https://school-brainhack.github.io/modules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-made tutorial on modules&lt;/a&gt; that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topics.&lt;/p&gt;
 &lt;p&gt;Here is the list of training modules for brainhack school:&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Brief Introduction to the Bash Shell&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Brief Introduction to the Bash Shell&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applications of Deep Learning in Neuroimaging&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applications of Deep Learning in Neuroimaging&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Containers&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Containers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Connectivity&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Connectivity&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Parcellation&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fMRI Parcellation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Performance Computing&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Performance Computing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software Installation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Visualization in Python&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Visualization in Python&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Deep Learning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://school.brainhackmtl.org/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python for data analysis&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/schedule/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/schedule/</guid>
-      <description>&lt;h2 id=&#34;-preparation-phase-feb---april&#34;&gt;📅 Preparation Phase (Feb - April)&lt;/h2&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;1&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;Mar 26 (10.30AM)&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Introduction to Data Analytics for Neuroimaging&lt;/strong&gt;&lt;br&gt;
-      Presentation by OGEM on travel grant application
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;2 to 6&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;
-      Mar 31 - May 2&lt;br&gt;&lt;br&gt;(Preparation, general discussion in NTULearn)
-    &lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Self-study&lt;/strong&gt; (videos + assignments + hands-on practices) of 24 online tutorials categorized into:
-      &lt;ul&gt;
-        &lt;li&gt;Data Science (e.g., terminal, containers, python scripting/testing, git/github, HPC)&lt;/li&gt;
-        &lt;li&gt;Neuro data science (e.g., fMRI connectivity/parcellation, deep learning, open data, data visualization)&lt;/li&gt;
-      &lt;/ul&gt;
-      You are recommended to follow the sequence as ordered in
-      &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/modules/&#34;&gt;Modules&lt;/a&gt; section, the
-      &lt;a href=&#34;https://www.clinicalbrain.org/brainhack/tutorials/&#34;&gt;Tutorials&lt;/a&gt; page, or the
-      &lt;a href=&#34;https://discord.com/channels/1338385565804134430/1338399220729643018&#34;&gt;BHS-SG Discord server modules channel&lt;/a&gt;.
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;7&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 9 (1:20PM)&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Introduction to BrainHack School materials&lt;/strong&gt;&lt;br&gt;
-      (Pod assignment with Taiwan students)&lt;br&gt;
-      &lt;strong&gt;Cultural Intelligence Talk&lt;/strong&gt;&lt;br&gt;
-      Pre-trip briefing by OGEM
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;br&gt;
-&lt;h2 id=&#34;-international-phase-may---june&#34;&gt;🌍 International Phase (May - June)&lt;/h2&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;8&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 12 - May 16&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Tool Exploration&lt;/strong&gt; for neural data science; Complete 6 tutorials online (submit via NTULearn)&lt;br&gt;
-      &lt;strong&gt;Check-in meeting (16 May Friday 1:20pm)&lt;/strong&gt;&lt;br&gt;
-      Active Q&amp;A consultation hours (up to 2 hours a day)
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;9&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 19 - May 23&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Project Definition &amp;amp; Piloting;&lt;/strong&gt; Complete 3 online modules (submit via NTULearn)&lt;br&gt;
-      &lt;strong&gt;Project Pitch (23 May Friday 1:20pm) TBC&lt;/strong&gt;&lt;br&gt;
-      Active Q&amp;amp;A consultation hours (up to 2 hours a day)
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;10&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;May 26 - May 30&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Project Implementation;&lt;/strong&gt; Complete 1 online module (submit via NTULearn)&lt;br&gt;
-      &lt;strong&gt;Talk Sharing (30 May Friday 1:20pm))&lt;/strong&gt;&lt;br&gt;
-      Project Clinics with TAs
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;11&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 2 - June 6&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;Project Wrap-Up&lt;/strong&gt; Project Clinics with TAs&lt;br&gt;
-      Wrap-up Presentations (TBC)
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;12&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 9 - June 13&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;
-      &lt;strong&gt;BrainHack Symposium at National Taiwan University (Visit NTU.Taiwan, optional)&lt;/strong&gt;&lt;br&gt;
-      Submission of project description and video to the International BrainHack Site
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;5%&#34;&gt;13&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;20%&#34;&gt;June 18 (5pm)&lt;/td&gt;
-    &lt;td valign=&#34;top&#34; width=&#34;75%&#34;&gt;Submission of Reflection Essay via NTULearn&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+&lt;a href=&#34;https://school-brainhack.github.io/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python for data analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -618,182 +1185,182 @@ Neuroscience is a thriving field that is constantly advancing, with new methodol
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/brainhack/tutorials/</guid>
       <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:right&#34;&gt;No.&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Tutorial&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Primary TAs&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INSTALLATION&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng, Yi Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;BASH (TERMINAL)&lt;/strong&gt; (
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;No.&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Tutorial&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Primary TAs&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Software Installation&lt;/strong&gt; (
+&lt;a href=&#34;https://school.brainhackmtl.org/modules/installation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt;)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ting, Jia Li, Xiaoan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;A Brief Introduction to the Bash Shell&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/introduction_to_terminal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394241_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah, Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;3&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;USING GIT AND GITHUB&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Ting, Jia Li, Xiaoan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Using Git and GitHub&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/git_github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394243_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng, Jia Li&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;4&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO PYTHON FOR DATA ANALYSIS&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Ting, Wei-lin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Introduction to Python for Data Analysis&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/python_data_analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394245_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;MACHINE LEARNING BASICS&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/machine_learning_basics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Wei-lin, Johanna&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Writing Scripts in Python&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/python_scripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394247_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;6&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;PROJECT MANAGEMENT&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Tzu Yun, Wei-lin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Project Management&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/project_management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394249_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah, Yi Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;7&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;HIGH PERFORMANCE COMPUTING&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
-&lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394250_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yi Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;8&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;OPEN DATA&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Ting, Johanna, Yong Sheng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Open Data&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+&lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394250_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Ting, Trevor, Yong Sheng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Machine Learning Basics&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/machine_learning_basics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394251_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah, Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;9&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;WRITING SCRIPTS IN PYTHON&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/python_scripts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Ting, Jia Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;High-Performance Computing&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/hpc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4394253_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Jia Li&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;10&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO DEEP LEARNING&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Wei-lin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;The Brain Imaging Data Standards and Applications (BIDS)&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/bids/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396917_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;11&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;APPLICATIONS OF DEEP LEARNING IN NEUROIMAGING&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Tzu Yun, Jia Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Introduction to Deep Learning&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/deep_learning_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396918_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;12&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;MACHINE LEARNING FOR NEUROIMAGING&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda,  Xiaoan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Machine Learning for Neuroimaging&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/machine_learning_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396919_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;13&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;fMRI CONNECTIVITY&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Applications for Deep Learning in Neuroimaging&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/dl_for_neuroimaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396920_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah, Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;14&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;fMRI PARCELLATION&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;fMRI Connectivity&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_connectivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396921_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah, Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;15&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;THE BRAIN IMAGING DATA STANDARDS AND APPLICATIONS&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/bids/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Tzu Yun, Wei-lin, Johanna&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;fMRI Parcellation&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/fmri_parcellation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396922_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng, Yi Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;16&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;RESEARCH DATA MANAGEMENT USING DATALAD&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Wei-lin, Johanna&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;MNE-Python &amp;amp; EEG-BIDS&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396923_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;17&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;WORKING WITH MNE-PYTHON AND EEG BIDS&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/mne_python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Ting, Xiaoan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Research Data Management Using DataLad&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396983_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;18&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;NEUROIMAGING DATA AND FILE STRUCTURES IN PYTHON&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;TBD&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Neuroimaging Data and File Structure in Python&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/nibabel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396924_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Yong Sheng&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;19&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO DMRI&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;19&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Introduction to dMRI&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/dmri_intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396925_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;20&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO SPINAL CORD MRI ANALYSIS&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/spinal_cord/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Yong Sheng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;SPINAL CORD MRI&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/spinal_cord&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396926_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Tiffany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;21&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO DATA VISUALIZATION IN PYTHON&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Yong Sheng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;21&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Introduction to Data Visualization in Python&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/python_visualization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396992_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi, Jia Li&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;22&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;INTRODUCTION TO PYTHON PACKAGING WITH ‘PIPY’&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Jia Li, Trevor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;22&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Python Packaging&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/packaging/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396993_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;23&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;SOFTWARE TESTING AND CONTINUOUS INTEGRATION&lt;/strong&gt; (
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda, Jia Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;23&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Software Testing and Continuous Integration&lt;/strong&gt; (
 &lt;a href=&#34;https://school-brainhack.github.io/modules/testing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396994_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannah&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;24&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;CONTAINERS&lt;/strong&gt; (
-&lt;a href=&#34;https://school-brainhack.github.io/modules/containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
+          &lt;td style=&#34;text-align: left&#34;&gt;Ting&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;24&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Containers&lt;/strong&gt; (
+&lt;a href=&#34;https://school-brainhack.github.io/modules/datalad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; | 
 &lt;a href=&#34;https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2673042_1&amp;amp;content_id=_4396995_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Ruo-chi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Amanda&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;See 
 &lt;a href=&#34;https://school-brainhack.github.io/weeks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4-week order&lt;/a&gt; for the International Phase BrainHack School.&lt;/p&gt;
@@ -818,30 +1385,24 @@ As technology and globalisation are changing the nature of labour markets and in
 &lt;p&gt;Research Fellows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/cheng-xiaoqin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cheng Xiao qin, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/deepika-shukla/&#34;&gt;Deepika Shukla&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Scientist:&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/elias-ebrahimzadeh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elias Ebrahimzadeh, PhD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/chia-lun-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chia-Lun Liu, PhD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/eleanor-koo-wei-shi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Koo Wei Shi, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/lin-hsin-yu-tiffany/&#34;&gt;Lin Hsin-Yu (Tiffany)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Associate:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/hong-min/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hong Min&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/winlynn-choo/&#34;&gt;Winlynn Choo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Assistants:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/tan-jia-yuan-janet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Janet Tan Jia Yuan&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/gabriel-keefe-ang/&#34;&gt;Gabriel Keefe Ang&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/marisha-barth-ubrani/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marisha Barth Ubrani&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;PhD Student:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.clinicalbrain.org/author/teo-jia-li/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teo Jia Li&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/tanisha-attri/&#34;&gt;Tanisha Attri&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -889,14 +1450,6 @@ As technology and globalisation are changing the nature of labour markets and in
     </item>
     
     <item>
-      <title>Differential neural activity across Hierarchical Bayesian inference under uncertainty in Older and Younger adults</title>
-      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The P3 and Academic Performance: A Systematic Review and Meta-Analysis</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_the-p3-and-academic-performance/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
@@ -916,9 +1469,17 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
     </item>
     
     <item>
+      <title>Differential neural activity across Hierarchical Bayesian inference under uncertainty in Older and Younger adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to the special issue: Bringing the brain into education: The application of findings from the Science of Learning to teacher training and development</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_science-of-learning_editorial/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2024_science-of-learning_editorial/</guid>
       <description>&lt;p&gt;The above is an editorial introducing a special issue of the journal &lt;b&gt;Trends in Neuroscience and Education&lt;/b&gt; &lt;i&gt;(Cite Score: 6.3; Impact Factor: 3.4)&lt;/i&gt; edited by &lt;b&gt;&lt;u&gt;Dr Adam John Privitera (CRADLE@NTU)&lt;/b&gt;&lt;/u&gt;, &lt;b&gt;&lt;u&gt;Professor S.H Annabel Chen (CRADLE@NTU)&lt;/b&gt;&lt;/u&gt;, &amp;amp; &lt;b&gt;&lt;u&gt;Associate Professor Maria Teresa Carthery-Goulart (Federal University of ABC, Brazil; The University of Hong Kong)&lt;/b&gt;&lt;/u&gt;.&lt;/p&gt;
 &lt;p&gt;The special issue can be accessed through this link: 
@@ -1023,7 +1584,7 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
     <item>
       <title>Understanding of Psychological Literacy: Comparative Insights From Undergraduates in China and the United Kingdom</title>
       <link>https://clinicalbrainlab.github.io/publication/2024_comparative-psychological-literacy/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2024_comparative-psychological-literacy/</guid>
       <description></description>
     </item>
@@ -1057,7 +1618,7 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
       <link>https://clinicalbrainlab.github.io/post/brainnorm/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/post/brainnorm/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;brainnorm.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/post/brainnorm/brainnorm.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1075,15 +1636,6 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_chinese-syntax-semantics/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Creative Writing</title>
-      <link>https://clinicalbrainlab.github.io/post/proof/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/proof/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./proof.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1165,15 +1717,6 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2023_cognitive_flexibility_ef/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>MRI Space Mission</title>
-      <link>https://clinicalbrainlab.github.io/post/kid-biliteracy/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/post/kid-biliteracy/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;main.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1304,42 +1847,6 @@ This project is a collaboration with St. Luke&amp;rsquo;s Medical Center, Instit
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2022_cerebellar-tms/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Part-time Student Assistant Position at CRADLE</title>
-      <link>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/join/join_cbl_part-time-ra/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The Centre for Research and Development in Learning (CRADLE), led by Principal Investigator Prof. Annabel Chen, is looking to hire several part-time undergraduate research assistants.&lt;/p&gt;
-&lt;p&gt;You will be part of a dynamic team of researchers who apply multi-modal approaches, including neurocognitive assessments, and neuroimaging techniques such as magnetic resonance imaging (MRI) and functional near-infrared spectroscopy (fNIRS) to investigate the neurocognitive mechanisms of literacy and numeracy development in young children.&lt;/p&gt;
-&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
-&lt;p&gt;Depending on the study you are assisting in, you might be involved in some of the following activities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Assist with participant recruitment and eligibility screening&lt;/li&gt;
-&lt;li&gt;Assist with behavioural, fNIRS and/or MRI data collection&lt;/li&gt;
-&lt;li&gt;Assist with data coding, maintenance and preprocessing&lt;/li&gt;
-&lt;li&gt;Assist with the translation of research documents&lt;/li&gt;
-&lt;li&gt;Other activities that support the research studies&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;You must be a current undergraduate student at Nanyang Technological University (NTU)&lt;/li&gt;
-&lt;li&gt;A self-directed learner who is eager to learn about advanced neuroimaging research&lt;/li&gt;
-&lt;li&gt;Prior experience or have interests in working with young children&lt;/li&gt;
-&lt;li&gt;Ability to work on some weekends (for data collection)&lt;/li&gt;
-&lt;li&gt;Previous experience in neurocognitive or neuroimaging research is an advantage&lt;/li&gt;
-&lt;li&gt;Ability to help with translations (i.e. Mandarin, Malay or Tamil) is an advantage&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;If you are interested in this job opening, please contact:&lt;/p&gt;
-&lt;p&gt;Research Fellow: Dr. Lynette Looi&lt;/p&gt;
-&lt;p&gt;Email: 
-&lt;a href=&#34;mailto:lynette.looi@ntu.edu.sg&#34;&gt;lynette.looi@ntu.edu.sg&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/join/BrainNORM.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1518,12 +2025,17 @@ Therefore, we proposed and developed an intervention program (&lt;strong&gt;ExCI
 Undergraduate Students&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Amos Law&lt;/li&gt;
-&lt;li&gt;Arumugam Ramaswamy&lt;/li&gt;
-&lt;li&gt;Bhavya Arya&lt;/li&gt;
-&lt;li&gt;Cheng Wenxuan&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/arum/&#34;&gt;Arumugam Ramaswamy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/bhavya-arya/&#34;&gt;Bhavya Arya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/wenxuan-cheng/&#34;&gt;Cheng Wenxuan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Chia Kai Xin&lt;/li&gt;
-&lt;li&gt;Chui Yingqi&lt;/li&gt;
-&lt;li&gt;Claire Chang&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/chui-yingqi/&#34;&gt;Chui Yingqi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/claire-chang-see-ying/&#34;&gt;Claire Chang&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Dawn Lim&lt;/li&gt;
 &lt;li&gt;Derric Eng&lt;/li&gt;
 &lt;li&gt;Ebenezer Chan&lt;/li&gt;
@@ -1538,101 +2050,160 @@ Undergraduate Students&lt;/p&gt;
 &lt;li&gt;Lean Jing Hui&lt;/li&gt;
 &lt;li&gt;Leong Li An&lt;/li&gt;
 &lt;li&gt;Lim Tech Yian&lt;/li&gt;
-&lt;li&gt;Lin Xiaowen&lt;/li&gt;
-&lt;li&gt;Low Jia Rong&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/lin-xiaowen/&#34;&gt;Lin Xiaowen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/low-jia-rong/&#34;&gt;Low Jia Rong&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Mabel Ong&lt;/li&gt;
 &lt;li&gt;Matthew Teo&lt;/li&gt;
 &lt;li&gt;Megan Tay&lt;/li&gt;
 &lt;li&gt;Michelle Mah&lt;/li&gt;
 &lt;li&gt;Neo Shao Hoon&lt;/li&gt;
-&lt;li&gt;Neo Yi Fang&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/yifang-neo/&#34;&gt;Neo Yi Fang&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Nur Diyanah&lt;/li&gt;
 &lt;li&gt;Ong Zi Yan&lt;/li&gt;
 &lt;li&gt;Rachel Tham&lt;/li&gt;
-&lt;li&gt;Randal Lee Zhisheng&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/randall-lee-zhisheng/&#34;&gt;Randal Lee Zhisheng&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Regine Lau&lt;/li&gt;
-&lt;li&gt;Ryan Lim&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/lim-hon-hwa-ryan/&#34;&gt;Ryan Lim&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Samuel Chong&lt;/li&gt;
 &lt;li&gt;Seanna Neo&lt;/li&gt;
-&lt;li&gt;Serene Koh&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/serene-koh/&#34;&gt;Serene Koh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Sharon Chan&lt;/li&gt;
 &lt;li&gt;Shee Mei Ling&lt;/li&gt;
 &lt;li&gt;Stephanie Lee&lt;/li&gt;
 &lt;li&gt;Tan Suan Fong&lt;/li&gt;
-&lt;li&gt;Tay Shi Ying&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/tay-shi-ying/&#34;&gt;Tay Shi Ying&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Teh Hui Chian&lt;/li&gt;
 &lt;li&gt;Tony Lim&lt;/li&gt;
 &lt;li&gt;Vicki Chng Wei Qi&lt;/li&gt;
 &lt;li&gt;Yap Jia Yu&lt;/li&gt;
 &lt;li&gt;Yeo Jia Ying&lt;/li&gt;
 &lt;li&gt;Yeo Siok Peng&lt;/li&gt;
-&lt;li&gt;Yip Jiamin (Bethany)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/yip-jiamin-bethany/&#34;&gt;Yip Jiamin (Bethany)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Graduate Students&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Chan Yee Pei&lt;/li&gt;
-&lt;li&gt;Eng Goi Khia&lt;/li&gt;
-&lt;li&gt;Gladys Heng&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.psychneurocoglab.com/people&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eng Goi Khia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/gladys-heng/&#34;&gt;Gladys Heng&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Kwok Fu Yu&lt;/li&gt;
-&lt;li&gt;Tan Jiat Chow&lt;/li&gt;
-&lt;li&gt;Wu Chiao-Yi (Joyce)&lt;/li&gt;
-&lt;li&gt;Serene Koh&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/mengyu-lim/&#34;&gt;Mengyu Lim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/jiayi-zhang/&#34;&gt;Zhang Jiayi (Vae)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/sagarika-bhattacharjee/&#34;&gt;Sagarika Bhattacharjee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/dayton-leow/&#34;&gt;Dayton Leow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keren Happuch E&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/chiao-yi-wu/&#34;&gt;Wu Chiao-Yi (Joyce)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/serene-koh/&#34;&gt;Serene Koh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Fellows&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Adrian Galang, PhD&lt;/li&gt;
 &lt;li&gt;Belle Yick, PhD&lt;/li&gt;
-&lt;li&gt;Dominique Makowski, PhD&lt;/li&gt;
-&lt;li&gt;Jo Archer, PhD&lt;/li&gt;
-&lt;li&gt;Lee Shu Hui, PhD&lt;/li&gt;
-&lt;li&gt;Liu Heng Shuang, PhD&lt;/li&gt;
-&lt;li&gt;Monika Sobczak-Edmans, PhD&lt;/li&gt;
-&lt;li&gt;Nestor Vinas-Guasch, PhD&lt;/li&gt;
-&lt;li&gt;Rajan Kashyap, PhD&lt;/li&gt;
-&lt;li&gt;Tommy Ng, PhD&lt;/li&gt;
-&lt;li&gt;Miao Zhong, PhD&lt;/li&gt;
+&lt;li&gt;Cheng Xiaoqin, PhD&lt;/li&gt;
+&lt;li&gt;Chia-Lun Liu, PhD&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/dominique-makowski/&#34;&gt;Dominique Makowski, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/eleanor-koo-wei-shi/&#34;&gt;Eleanor Koo Wei Shi, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/elias-ebrahimzadeh/&#34;&gt;Elias Ebrahimzadeh, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://loop.frontiersin.org/people/1588798/bio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jo Archer, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cge.site.nthu.edu.tw/p/16-1573-252065.php?Lang=zh-tw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lee Shu Hui, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clal.gdufs.edu.cn/info/1212/3627.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liu Heng Shuang, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/monika-sobczak-edmans/monika-sobczak-edmans.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monika Sobczak-Edmans, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://loop.frontiersin.org/people/470355/overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nestor Vinas-Guasch, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/rajan-kashyap/&#34;&gt;Rajan Kashyap, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dr.ntu.edu.sg/entities/person/Ng-Hock-Beng-Tommy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tommy Ng, PhD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/miao-zhong/&#34;&gt;Miao Zhong, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Research Associates&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/adhya-neshaa/&#34;&gt;Adhya Neshaa Nedumaran&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Alvin Lim, MA&lt;/li&gt;
 &lt;li&gt;Cathy Kao, MS&lt;/li&gt;
+&lt;li&gt;Hong Min&lt;/li&gt;
 &lt;li&gt;Hoki Fung, MS&lt;/li&gt;
-&lt;li&gt;Ilang Kumaran Yuvadarshini, MS&lt;/li&gt;
-&lt;li&gt;Meenakshi Siddharthan, MS&lt;/li&gt;
-&lt;li&gt;Stephanie Kirk, MA&lt;/li&gt;
-&lt;li&gt;Wilson Lim&lt;/li&gt;
-&lt;li&gt;Catherine Shuhan Wang&lt;/li&gt;
-&lt;li&gt;Nisha Syed Nasser&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://in.linkedin.com/in/yuvadarshiniik&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilang Kumaran Yuvadarshini, MS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/meenakshi-siddharthan/&#34;&gt;Meenakshi Siddharthan, MS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/stephanie-kirk/&#34;&gt;Stephanie Kirk, MA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/wilson-lim/&#34;&gt;Wilson Lim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/catherine-shuhan-wang/&#34;&gt;Catherine Shuhan Wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/nisha-syed-nasser/&#34;&gt;Nisha Syed Nasser&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Project Officers/Research Assistants&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Alison Chew&lt;/li&gt;
-&lt;li&gt;Cheng Wenxuan&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/wenxuan-cheng/&#34;&gt;Cheng Wenxuan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Gan Su Ren&lt;/li&gt;
-&lt;li&gt;Janet Tan&lt;/li&gt;
-&lt;li&gt;Lau Zen Juen&lt;/li&gt;
-&lt;li&gt;Low Li Tong&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/tan-jia-yuan-janet/&#34;&gt;Janet Tan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/zenjuen-lau/&#34;&gt;Lau Zen Juen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/litong-low/&#34;&gt;Low Li Tong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Marisha Barth Ubrani&lt;/li&gt;
 &lt;li&gt;Marilyn Yeo&lt;/li&gt;
 &lt;li&gt;Ngoi Zi Liang&lt;/li&gt;
-&lt;li&gt;Phoebe Chia&lt;/li&gt;
-&lt;li&gt;Tam Pham&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/phoebe-chia/&#34;&gt;Phoebe Chia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/tam-pham/&#34;&gt;Tam Pham&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tan Bee Li&lt;/li&gt;
-&lt;li&gt;Te An Shu&lt;/li&gt;
-&lt;li&gt;Chua Wei Ting Serena&lt;/li&gt;
-&lt;li&gt;Michelle Yap&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/an-shu-te/&#34;&gt;Te An Shu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/chua-wei-ting-serena/&#34;&gt;Chua Wei Ting Serena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/michelle-yap/&#34;&gt;Michelle Yap&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Sarah Ayub&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Interns&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Elaine Teo, Intern&lt;/li&gt;
-&lt;li&gt;Jonathan Tan&lt;/li&gt;
-&lt;li&gt;Max Yong, Trainee RA&lt;/li&gt;
-&lt;li&gt;Pavitraa Sundram, Trainee RA&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/elaine-teo/&#34;&gt;Elaine Teo&lt;/a&gt;, Intern&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/jonathan-tan/&#34;&gt;Jonathan Tan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/max-yong/&#34;&gt;Max Yong&lt;/a&gt;, Trainee RA&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clinicalbrainlab.github.io/author/pavitraa-sundram/&#34;&gt;Pavitraa Sundram&lt;/a&gt;, Trainee RA&lt;/li&gt;
 &lt;li&gt;Chew Hong Ern&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;System Admin&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lua Rui Ping, PhD&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sgdi.gov.sg/ministries/mddi/departments/sndg/departments/tc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lua Rui Ping, PhD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/br&gt;&lt;/br&gt;
 National Taiwan University (Taiwan):&lt;/p&gt;
@@ -1740,6 +2311,34 @@ This work has important implications in developing educator’s brain literacy a
 &lt;li&gt;
 &lt;a href=&#34;https://www.nie.edu.sg/research/projects/project/afd-07-16-zw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Developing a translating educational neuroscience clearinghouse (TENC) for the differentiated instruction of diverse learners&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>i-SATA</title>
+      <link>https://clinicalbrainlab.github.io/software/isata/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/software/isata/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.21979/N9/5W3RIM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;i-SATA&lt;/a&gt; is an individual-brain extension of SATA for estimating current density generated by transcranial direct current stimulation (tDCS). SATA was developed for standardized headspace analyses; i-SATA extends this approach to individual head models so researchers can estimate current density across cortical lobes and gyri for a participant&amp;rsquo;s own brain.&lt;/p&gt;
+&lt;p&gt;i-SATA is a MATLAB-based toolbox designed for use with individual T1-weighted MRI images and ROAST simulation outputs. It converts ROAST outputs to Talairach space using the anterior commissure (AC), posterior commissure (PC), and mid-sagittal (MS) points, supporting individualized analysis of tDCS montages and inter-individual variation in current density.&lt;/p&gt;
+&lt;p&gt;The i-SATA method is described in the lab&amp;rsquo;s 
+&lt;a href=&#34;https://clinicalbrainlab.github.io/publication/2020_isata/&#34;&gt;Journal of Neural Engineering publication&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;direct-downloads&#34;&gt;Direct downloads&lt;/h2&gt;
+&lt;p&gt;The i-SATA software package, manual, and manuscript can also be downloaded directly from here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/releases/download/isata-v1.0.0/iSATA.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download i-SATA software package (ZIP, 1.20 GB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/releases/download/isata-v1.0.0/iSATA-manual.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download i-SATA manual (PDF, 1.1 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/releases/download/isata-v1.0.0/iSATA-manuscript.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download i-SATA manuscript (PDF, 1.1 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The original dataset record remains available through 
+&lt;a href=&#34;https://doi.org/10.21979/N9/5W3RIM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR-NTU (Data)&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Kashyap, R., Bhattacharjee, S., Arumugam, R., Oishi, K., Desmond, J. E., &amp;amp; Chen, S. H. A. (2020). i-SATA: A MATLAB based toolbox to estimate current density generated by transcranial direct current stimulation in an individual brain. Journal of Neural Engineering, 17(5), 056034. doi: 10.1088/1741-2552/aba6dc&lt;/p&gt;
 </description>
     </item>
     
@@ -1927,27 +2526,6 @@ Convenient plotting functions are also available, allowing for quick visualizati
     </item>
     
     <item>
-      <title>PhD fellowships</title>
-      <link>https://clinicalbrainlab.github.io/join/join_cbl_phd2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/join/join_cbl_phd2/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;background-color: #FFFF00&#34;&gt;&lt;strong&gt;Now Open for Applications&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;We are currently actively recruiting for PhD students interested in developing research in educational neuroscience, affective neuroscience and aging neuroscience (specifically in older neurological patients).&lt;/p&gt;
-&lt;h2 id=&#34;job-scope&#34;&gt;Job Scope&lt;/h2&gt;
-&lt;p&gt;Research in the lab is focused on the neural basis of higher cognition in the cerebellum, cognitive training in healthy aging and we will be developing an area in Educational Neuroscience. Main research modalities in our lab include: neuropsychological assessments, cognitive tests, functional Magnetic Resonance (fMRI), diffusion MRI (DTI, HARDI, DSI), EEG and Transcranial Magnetic Stimulation (TMS). The candidate will be expected to conduct research in areas noted above, especially using diffusion MRI. However, he/she is also encouraged to develop own related research topic of interest. For more information about the lab please click 
-&lt;a href=&#34;http://portal.hss.ntu.edu.sg/annalab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;looking-for&#34;&gt;Looking For&lt;/h2&gt;
-&lt;p&gt;We welcome applicants with a &lt;strong&gt;Bachelors&lt;/strong&gt; or &lt;strong&gt;Masters degree&lt;/strong&gt; in various backgrounds such as: &lt;strong&gt;experimental psychology, biopsychology, cognitive psychology, neuropsychology, neurology, psychiatry, cognitive neuroscience, electrical engineering, medical engineering, computer science&lt;/strong&gt;, and related fields.&lt;/p&gt;
-&lt;p&gt;The successful applicant will be enrolled in the graduate psychology program by research. Competitive scholarships may be applied through the Graduate Psychology Program or the Interdisciplinary Graduate Program with CRADLE@NTU (CRADLE-IGP). For non-local degree holders, GRE exams (general and subject) will be required for application. Find out more about the 
-&lt;a href=&#34;https://www.ntu.edu.sg/education/graduate-programme/ph.d.-in-psychology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Psychology Program&lt;/a&gt; and 
-&lt;a href=&#34;https://www.ntu.edu.sg/cradle/home/interdisciplinary-graduate-programme-%28igp%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRADLE-IGP&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;apply&#34;&gt;Apply&lt;/h2&gt;
-&lt;p&gt;Please address questions or send Curriculum Vita to 
-&lt;a href=&#34;mailto:annabelchen@ntu.edu.sg&#34;&gt;annabelchen@ntu.edu.sg&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pyllusion</title>
       <link>https://clinicalbrainlab.github.io/software/pyllusion/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -1960,10 +2538,13 @@ Convenient plotting functions are also available, allowing for quick visualizati
 &lt;p&gt;The parametric approach implemented in this software proposes to describe illusions using a set of parameters, such as for instance the difference in the target features, and the strength of the contextual information in biasing the perception of the illusion (i.e., illusion strength). These two parameters can be modulated independently in &lt;em&gt;Pyllusion&lt;/em&gt; to investigate the precision and threshold at which certain populations become susceptible to the illusion. The aim of &lt;em&gt;Pyllusion&lt;/em&gt; is to foster reproducible science, allowing neuroscientists to easily report, generate and manipulate similar stimuli regardless of the display format and software. There is comprehensive 
 &lt;a href=&#34;https://realitybending.github.io/Pyllusion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; regarding the functionalities of &lt;em&gt;Pyllusion&lt;/em&gt; and code examples of how illusions can be generated in the form of images and psychopy stimuli.&lt;/p&gt;
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+&lt;p&gt;The Pyllusion paper has been published in &lt;em&gt;Perception&lt;/em&gt; and is available via 
+&lt;a href=&#34;https://doi.org/10.1177/03010066211057347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAGE Journals&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Pyllusion was presented at the &lt;strong&gt;43rd European Conference on Visual Perception (ECVP)&lt;/strong&gt;, held from 22 to 27 August 2021. A video walkthrough of the poster is available via this 
 &lt;a href=&#34;https://www.youtube.com/watch?v=uptP_NxEHaM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube link&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, P., S H Chen, A. (in preparation). Pyllusion: A Parametric Framework to Generate Visual Illusions using Python.&lt;/p&gt;
+&lt;p&gt;Makowski, D., Lau, Z. J., Pham, T., Boyce, W. P., &amp;amp; Chen, S. H. A. (2021). A parametric framework to generate visual illusions using Python. &lt;em&gt;Perception, 50&lt;/em&gt;(11), 950-965. 
+&lt;a href=&#34;https://doi.org/10.1177/03010066211057347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1177/03010066211057347&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2016,19 +2597,19 @@ and cleaning), statistical analyses and modelling, and graphical visualization.&
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://clinicalbrainlab.github.io/resources/info/for_parents/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/resources/info/SoRblog.png&#34; alt=&#34;png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;From research to practice, we communicate latest research findings, share suggestions for positive reading based on what we know, to cultivate interest for reading in children. Click 
-&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/welcome/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; to visit our blog.&lt;/p&gt;
-&lt;p&gt;Learn more about Reading by exploring our blog:&lt;/p&gt;
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/resources/info/SoRblog.png&#34; alt=&#34;Science of Reading blog&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From research to practice, we communicate the latest research findings, share suggestions for positive reading based on what we know, and cultivate interest in reading in children. Click 
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; to visit our blog.&lt;/p&gt;
+&lt;p&gt;Learn more about reading by exploring our blog:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/science-of-reading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science of Reading - Sharing what we know about reading&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/science-of-reading-blog-posts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science of Reading Blog Posts - Sharing what we know about reading&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/tips-for-parents-caregivers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Reading - Based on what we know, we share suggestions for positive reading&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/book-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Book Recommendations - Cultivating interest in reading through reading materials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/read-and-play/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reading recommendations - Cultivating interest in reading through reading materials&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://blogs.ntu.edu.sg/reading/category/fun-activities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fun Activities - Language and reading activities for children and families&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We upload new posts every last Wednesday of the month, join us as we explore the fun in reading!&lt;/p&gt;
+&lt;p&gt;We upload new posts regularly. Join us as we explore the fun in reading.&lt;/p&gt;
 </description>
     </item>
     
@@ -2045,6 +2626,16 @@ However, we have not tested SATA for other MATLAB versions. SATA works on Window
 In this case, you can download the codes from the 
 &lt;a href=&#34;https://github.com/ClinicalBrainLab/SATA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.
 However, you will need to download SPM, Fieldtrip, and Talairach client (do add them to matlab path). Similarly, you will have to run COMETS or ROAST separately to generate simulation outputs.So please do download them from their respective websites and see how to use them from their manuals. For details on using the code of SATA, please refer the SATA MANUAL (section 3.4).&lt;/p&gt;
+&lt;h2 id=&#34;direct-downloads&#34;&gt;Direct downloads&lt;/h2&gt;
+&lt;p&gt;The SATA software package and manual can also be downloaded directly from here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/releases/download/sata-v1.0.0/SATA.rar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download SATA GUI software package (RAR, 1.26 GB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io/releases/download/sata-v1.0.0/SATA-MANUAL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download SATA manual (PDF, 2 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The original dataset record remains available through 
+&lt;a href=&#34;https://doi.org/10.21979/N9/DMWPZK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR-NTU (Data)&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;Bhattacharjee, S., Kashyap, R., Rapp, B., Oishi, K., Desmond, J., &amp;amp; Chen, S. (2019). Simulation Analyses of tDCS Montages for the Investigation of Dorsal and Ventral Pathways. Scientific Reports (in press) doi: DOI: 10.1038/s41598-019-47654-y&lt;/p&gt;
 </description>
@@ -2399,7 +2990,7 @@ $$&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_group_1_2.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_group_1_2_hu9c1b6e0e5fd15c5d80344f1f32ec78bb_160480_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_group_1_2_hu_32c07527e0e46573.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;261&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2408,7 +2999,7 @@ $$&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_nitish@.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_nitish@_huf92ead520f43847e8e6052e20a75e8e9_127385_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;311&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_nitish@_hu_5ddfb917fa92b473.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;311&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -2417,16 +3008,78 @@ $$&lt;/p&gt;
     
     
   &lt;a data-fancybox=&#34;gallery-2014gallery&#34; href=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_workshopclosingremarks1.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_workshopclosingremarks1_hub99cf81edab8a7224763508ad4c16a20_120048_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;299&#34; height=&#34;190&#34;&gt;
+  &lt;img data-src=&#34;https://clinicalbrainlab.github.io/talk/2014_brainconnects/2014gallery/2014_workshopclosingremarks1_hu_1a165d7410a68547.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;299&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
   
 &lt;/div&gt;
-&lt;!-- TODO: fix broken link --&gt;
-&lt;!-- Please click [here](https://clinicalbrain.org/events/brainconnects/Brain%20Connects%202014%20Workshop%20Program.pdf) for the workshop outline. --&gt;
 &lt;p&gt;Follow 
 &lt;a href=&#34;https://sites.google.com/view/brainconnects2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; link to the official website of BrainConnects 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainConnects 2026</title>
+      <link>https://clinicalbrainlab.github.io/events/brainconnects-2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/events/brainconnects-2026/</guid>
+      <description>&lt;section style=&#34;max-width: 1120px; margin: 0 auto 2.5rem;&#34;&gt;
+  &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/brainconnects-2026-logo.png&#34; alt=&#34;BrainConnects 2026 logo showing collaborating institutions connected by a brain network&#34; style=&#34;display: block; width: 100%; height: auto; margin: 0 auto 1.5rem;&#34;&gt;
+  &lt;div style=&#34;width: calc(100% + 2.4rem); margin-left: -1.2rem; padding: 1.4rem; border: 1px solid rgba(15, 108, 109, 0.18); border-radius: 8px; background: linear-gradient(135deg, #fbffff 0%, #eefafa 52%, #ffffff 100%); box-sizing: border-box;&#34;&gt;
+    &lt;div style=&#34;max-width: 1120px; margin: 0 auto;&#34;&gt;
+    &lt;p style=&#34;margin: 0 0 0.65rem; color: #0f6c6d; font-weight: 800; text-transform: uppercase;&#34;&gt;29 September - 2 October 2027&lt;/p&gt;
+    &lt;h2 style=&#34;margin-top: 0;&#34;&gt;Watch this page for BrainConnects 2026&lt;/h2&gt;
+    &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; LKCMedicine HQ, Novena Campus, NTU.&lt;/p&gt;
+    &lt;p&gt;BrainConnects brings together researchers, clinicians, educators, engineers and technology partners working across cognitive neuroscience, neuroimaging, mental health, learning sciences and human development.&lt;/p&gt;
+    &lt;p&gt;The 2026 meeting is hosted by the Science of Learning in Education Centre (SoLEC), National Institute of Education; the Centre for Lifelong Learning and Individualised Cognition (CLIC) NTU-Cambridge; the Centre of Research &amp;amp; Development in Learning (CRADLE), and the Centre for Neuroimaging (CoNiC) at NTU, with NIRx/Artinis as partners for the fNIRS workshop.&lt;/p&gt;
+    &lt;p&gt;This year&#39;s theme, &lt;strong&gt;Shared Signals, Connected Learning&lt;/strong&gt;, reflects our interest in hyperscanning, portable imaging, fNIRS/EEG, and multimodal approaches to understanding connectedness, interpersonal synchrony, and shared attention in real-world learning environments. Learning rarely happens in isolation: it unfolds through exchanges between learners, teachers, peers, technologies, and environments. By studying shared neural, cognitive, physiological, behavioural, and social signals, BrainConnects 2026 aims to ask how people align attention, coordinate understanding, communicate meaning, and build knowledge together.&lt;/p&gt;
+    &lt;p&gt;The timing is especially meaningful, as BrainConnects 2026 will also celebrate SoLEC&#39;s 5th Anniversary. This milestone broadens our research into how learners, educators, technologies, and environments become connected through shared neural, cognitive, physiological, and social signals, and how these insights can advance the science of learning.&lt;/p&gt;
+    &lt;div style=&#34;margin-top: 1.45rem; padding-top: 1.35rem; border-top: 1px solid rgba(15, 108, 109, 0.18);&#34;&gt;
+      &lt;h3 style=&#34;margin: 0 0 0.9rem; color: #123d4a;&#34;&gt;Keynote Speakers&lt;/h3&gt;
+      &lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.1rem;&#34;&gt;
+        &lt;div style=&#34;text-align: center; padding: 0.4rem 0.65rem;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/benjamin-becker.jpg&#34; alt=&#34;Professor Benjamin Becker&#34; style=&#34;width: 176px; height: 176px; object-fit: cover; object-position: center 24%; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 8px 22px rgba(18, 61, 74, 0.16);&#34;&gt;
+          &lt;div style=&#34;margin-top: 0.65rem;&#34;&gt;
+            &lt;p style=&#34;margin: 0 0 0.2rem; font-size: 0.92rem; line-height: 1.22;&#34;&gt;&lt;strong&gt;Professor Benjamin Becker&lt;/strong&gt;&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Department of Psychology&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Director, MIND &amp;amp; AI Lab&lt;/p&gt;
+            &lt;p style=&#34;margin: 0; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;The University of Hong Kong&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;text-align: center; padding: 0.4rem 0.65rem;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/twila-tardif.jpg&#34; alt=&#34;Professor Twila Tardif&#34; style=&#34;width: 176px; height: 176px; object-fit: cover; object-position: center; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 8px 22px rgba(18, 61, 74, 0.16);&#34;&gt;
+          &lt;div style=&#34;margin-top: 0.65rem;&#34;&gt;
+            &lt;p style=&#34;margin: 0 0 0.2rem; font-size: 0.92rem; line-height: 1.22;&#34;&gt;&lt;strong&gt;Professor Twila Tardif&lt;/strong&gt;&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Department of Paediatrics&lt;/p&gt;
+            &lt;p style=&#34;margin: 0 0 0.12rem; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;NUS Yong Loo Lin School of Medicine&lt;/p&gt;
+            &lt;p style=&#34;margin: 0; color: #4d6670; font-size: 0.76rem; line-height: 1.24;&#34;&gt;Senior Principal Scientist III, Translational Neurosciences, A*STAR Institute for Human Development and Potential&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;margin-top: 1.45rem; padding-top: 1.25rem; border-top: 1px solid rgba(15, 108, 109, 0.18);&#34;&gt;
+      &lt;h3 style=&#34;margin: 0 0 0.85rem; color: #123d4a;&#34;&gt;Hosts and Workshop Partners&lt;/h3&gt;
+      &lt;div style=&#34;display: flex; flex-wrap: nowrap; gap: 0.65rem; align-items: center; justify-content: space-between; overflow-x: auto;&#34;&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.2rem 0.25rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/ntu-logo.png&#34; alt=&#34;Nanyang Technological University Singapore logo&#34; style=&#34;max-width: 132px; max-height: 78px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.2rem 0.25rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/nie-logo.png&#34; alt=&#34;National Institute of Education Singapore logo&#34; style=&#34;max-width: 138px; max-height: 78px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.45rem 0.55rem; border-radius: 8px; background: #123d4a;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/nirx-logo.png&#34; alt=&#34;NIRx logo&#34; style=&#34;max-width: 104px; max-height: 52px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+        &lt;div style=&#34;display: flex; align-items: center; justify-content: center; flex: 0 0 150px; width: 150px; height: 82px; padding: 0.45rem 0.55rem; border-radius: 8px; background: #ffffff;&#34;&gt;
+          &lt;img src=&#34;https://clinicalbrainlab.github.io/media/brainconnects/artinis-logo.png&#34; alt=&#34;Artinis logo&#34; style=&#34;max-width: 104px; max-height: 52px; width: auto; height: auto;&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p style=&#34;margin-top: 2cm;&#34;&gt;&lt;strong&gt;Abstract submission deadline: 10 September 2026.&lt;/strong&gt;&lt;/p&gt;
+    &lt;p style=&#34;display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin: 0.9rem 0 0;&#34;&gt;&lt;a class=&#34;btn btn-primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdl2W5IoAL1fhTph9T94Tu9bDCIf9Zqh2Be5HU6k92gMVfATw/viewform&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #ffffff !important; line-height: 1.2; text-decoration: none;&#34;&gt;Submit Abstract&lt;/a&gt;&lt;span class=&#34;btn btn-outline-primary&#34; style=&#34;display: inline-flex; align-items: center; min-height: 44px; padding: 0.72rem 1.15rem; color: #0f6c6d; line-height: 1.2; opacity: 0.78; cursor: not-allowed;&#34;&gt;Registration Coming Soon&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
